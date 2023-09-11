@@ -15,5 +15,4 @@ output
 *.json
 detrick
 *.csv
-*.png
 train.log
