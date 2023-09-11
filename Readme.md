@@ -1,4 +1,4 @@
-## DH-DETR: De-Homogenized queries DETR in Crowded Scenes (Deformable-DETR implementation)
+## DH-DETR: De-Homogenized Queries DETR in Crowded Scenes (Deformable-DETR implementation)
 ![img_2.png](img_2.png)
 ![img_1.png](img_1.png)
 ## Introduction
