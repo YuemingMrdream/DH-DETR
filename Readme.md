@@ -1,31 +1,40 @@
-## Progressive End-to-End Object Detection in Crowded Scenes (Deformable-DETR implementation)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/progressive-end-to-end-object-detection-in/object-detection-on-crowdhuman-full-body)](https://paperswithcode.com/sota/object-detection-on-crowdhuman-full-body?p=progressive-end-to-end-object-detection-in)
-
-![](https://github.com/megvii-research/Iter-E2EDET/raw/main/readme/fig.jpg)
-
+## DH-DETR: De-Homogenized queries DETR in Crowded Scenes (Deformable-DETR implementation)
+![img_2.png](img_2.png)
+![img_1.png](img_1.png)
 ## Introduction
+This paper focuses on improving dense object detection, a crucial task in fields like self-driving cars and video 
+surveillance. Detectors using Non-Maximum Suppression (NMS) for post-processing often produce 
+duplicate predictions or miss objects in crowded scenes. Although 
+end-to-end detectors like DETR can integrate NMS-like deduplication into the network, we've noticed that homogenized 
+queries in these query-based detectors can reduce the learning efficiency of encoding, leading to deduplication predictions.
+To address this problem, we introduce a learnable differential encoding mechanism to de-homogenize queries and enable
+better communication among queries, replacing the previous self-attention layers. Additionally, we employ a GIOU-aware
+loss considering both position and confidence predictions for higher-quality query initialization. On the challenging 
+[CrowdHuman]() dataset, our method achieves outstanding results with 8% parameters lower compared to Deformable DETR: 
+an average precision (AP) of 93.6%, MR^-2 of 39.2%, and Jaccard Index (JI) of 84.3%. This outperforms previous 
+state-of-the-art methods, such as Iter-E2EDet (Progressive End-to-End Object Detection) and MIP (One proposal, 
+multiple predictions). Furthermore, our approach shows high robustness to the crowdedness in a scene.
 
-In this paper, we propose a new query-based detection framework for crowd detection. Previous query-based detectors suffer from two drawbacks: first, multiple predictions will be inferred for a single object, typically in crowded scenes; second, the performance saturates as the
-depth of the decoding stage increases. Benefiting from the nature of the one-to-one label assignment rule, we propose a progressive predicting method to address the above issues. Specifically, we first select accepted queries prone to generate true positive predictions, then refine the rest
-noisy queries according to the previously accepted predictions. Experiments show that our method can significantly boost the performance of query-based detectors in crowded scenes. Equipped with our approach, Sparse RCNN achieves 92.0% AP, 41.4% MR^−2 and 83.2% JI on the challenging [CrowdHuman]() dataset, outperforming the box-based method MIP that specifies in handling crowded scenarios. Moreover, the proposed method, robust to crowdedness, can still obtain consistent improvements on moderately and slightly crowded datasets like CityPersons and COCO.
 
-### Links
-- Iter Sparse R-CNN [[repo](https://github.com/megvii-research/Iter-E2EDET)]
-- CVPR 2022 paper [[paper](https://arxiv.org/abs/2203.07669)]
+
+[//]: # (### Links)
+
+[//]: # (- Iter Sparse R-CNN [[repo]&#40;https://github.com/megvii-research/Iter-E2EDET&#41;])
+
 
 ## Models
 
 Experiments of different methods were conducted on CrowdHuman. All approaches take R-50 as the backbone.
-Method | #queries | AP | MR | JI 
-:--- |:---:|:---:|:---:|:---:
+Method | #queries | AP | MR | JI | Param
+:--- |:---:|:---:|:---:|:---:|:---:
 CrowdDet [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chu_Detection_in_Crowded_Scenes_One_Proposal_Multiple_Predictions_CVPR_2020_paper.pdf)] | -- | 90.7 | 41.4 | 82.4
-Sparse RCNN | 500 | 90.7 | 44.7 | 81.4 
-Deformable DETR | 1000 | 91.5 | 43.7 | 83.1
-Sparse RCNN + Ours [[repo](https://github.com/megvii-research/Iter-E2EDET)] | 500 | 92.0 | 41.4 | 83.2
-Deformable DETR + Ours (this repo) | 1000 | 92.1 | 41.5 | 84.0
-Deformable DETR + Swin-L + Ours (this repo) | 1000 | **94.1** | **37.7** | **87.1**
+Sparse RCNN | 500 | 90.7 | 44.7 | 81.4 |
+Deformable DETR | 1000 | 91.3 | 43.8 | 83.3 | 37.7M
+Iter-E2EDet | 1000 | 92.1 | 41.5 | 84.0 | 38.0M
+Deformable DETR + Ours (6-3) | 1000 | **93.6** | **39.2** | **84.3**  | 34.6M
+Deformable DETR + Ours (6-3(2)))| 1000 | 93.5 | 39.3 | 84.1 | 33.7M
+
+X-Y (Z) represents training with X Encoder and Y Decoder , and testing with Z decoders. other methods default to 6-6
 
 ## Installation
 The codebases are built on top of [Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) and [Iter-E2EDET](https://github.com/megvii-research/Iter-E2EDET).
@@ -49,29 +58,4 @@ bash exps/aps_swinl.sh
 ```bash
 # checkpoint path: ./output/model_dump/aps/checkpoint-49.pth
 bash exps/aps_test.sh 49
-# AP: 0.9216, MR: 0.4140, JI: 0.8389, Recall: 0.9635
-```
-or with Swin-L backbone from [here](https://drive.google.com/file/d/11lw3lkIX1jJsqKWOu7vuSIzKtkbfrh3a/view?usp=sharing):
-```bash
-# checkpoint path: ./output/model_dump/aps_swinl/checkpoint-49.pth
-bash exps/aps_swinl_test.sh 49
-# AP: 0.9406, MR: 0.3768, JI: 0.8707, Recall: 0.9707
-```
 
-## License
-
-Iter Deformable-DETR is released under MIT License.
-
-
-## Citing
-
-If you use our work in your research or wish to refer to the baseline results published here, please use the following BibTeX entries:
-
-```BibTeX
-@article{2022iterdetr,
-  title   =  {Progressive End-to-End Object Detection in Crowded Scenes},
-  author  =  {Anlin Zheng and Yuang Zhang and Xiangyu Zhang and Xiaojuan Qi and Jian Sun},
-  journal =  {arXiv preprint arXiv:arXiv:2203.07669v1},
-  year    =  {2022}
-}
-```
