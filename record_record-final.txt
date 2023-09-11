@@ -1,0 +1,943 @@
+AP: 0.9215, MR: 0.4132, JI: 0.8396, Recall: 0.9636
+AP: 0.9215, MR: 0.4132, JI: 0.8396, Recall: 0.9636
+AP: 0.9198, MR: 0.4193, JI: 0.8419, Recall: 0.9623
+AMself_output/eval_dump/AMself_output_dir/epoch-40.humanAP: 0.9112, MR: 0.4451, JI: 0.8329, Recall: 0.9569
+AMself_output/eval_dump/AMself_output_dir/epoch-41.humanAP: 0.9145, MR: 0.4326, JI: 0.8354, Recall: 0.9594
+AMself_output/eval_dump/AMself_output_dir/epoch-42.humanAP: 0.9167, MR: 0.4296, JI: 0.8377, Recall: 0.9610
+AMself_output/eval_dump/AMself_output_dir/epoch-43.humanAP: 0.9165, MR: 0.4282, JI: 0.8384, Recall: 0.9611
+AMself_output/eval_dump/AMself_output_dir/epoch-44.humanAP: 0.9177, MR: 0.4267, JI: 0.8408, Recall: 0.9606
+AMself_output/eval_dump/AMself_output_dir/epoch-45.humanAP: 0.9174, MR: 0.4217, JI: 0.8413, Recall: 0.9601
+AMself_output/eval_dump/AMself_output_dir/epoch-46.humanAP: 0.9188, MR: 0.4203, JI: 0.8430, Recall: 0.9610
+AMself_output/eval_dump/AMself_output_dir/epoch-47.humanAP: 0.9185, MR: 0.4284, JI: 0.8413, Recall: 0.9611
+AMself_output/eval_dump/AMself_output_dir/epoch-48.humanAP: 0.9189, MR: 0.4210, JI: 0.8415, Recall: 0.9612
+AMself_output/eval_dump/AMself_output_dir/epoch-49.humanAP: 0.9198, MR: 0.4193, JI: 0.8419, Recall: 0.9623
+AMself_output/eval_dump/AMself_output_dir/epoch-49.humanAP: 0.9198, MR: 0.4193, JI: 0.8419, Recall: 0.9623
+AMself_output/eval_dump/AMself_output_dir/epoch-50.humanAP: 0.8978, MR: 0.4769, JI: 0.8130, Recall: 0.9505
+AMself_output/eval_dump/AMself_output_dir/epoch-51.humanAP: 0.8960, MR: 0.4774, JI: 0.8194, Recall: 0.9489
+AMself_output/eval_dump/AMself_output_dir/epoch-52.humanAP: 0.8925, MR: 0.4705, JI: 0.8157, Recall: 0.9444
+AMself_output/eval_dump/AMself_output_dir/epoch-53.humanAP: 0.8996, MR: 0.4694, JI: 0.8255, Recall: 0.9499
+AMself_output/eval_dump/AMself_output_dir/epoch-54.humanAP: 0.8966, MR: 0.4723, JI: 0.8138, Recall: 0.9506
+AMself_output/eval_dump/AMself_output_dir/epoch-55.humanAP: 0.8997, MR: 0.4817, JI: 0.8211, Recall: 0.9514
+AMself_output/eval_dump/AMself_output_dir/epoch-56.humanAP: 0.8865, MR: 0.4921, JI: 0.7909, Recall: 0.9462
+AMself_output/eval_dump/AMself_output_dir/epoch-57.humanAP: 0.8995, MR: 0.4667, JI: 0.8225, Recall: 0.9506
+AMself_output/eval_dump/AMself_output_dir/epoch-58.humanAP: 0.8991, MR: 0.4695, JI: 0.8145, Recall: 0.9544
+AMself_output/eval_dump/AMself_output_dir/epoch-59.humanAP: 0.8994, MR: 0.4613, JI: 0.8159, Recall: 0.9510
+AMself_output/eval_dump/AMself_2_1/epoch-35.humanAP: 0.8878, MR: 0.4968, JI: 0.8118, Recall: 0.9436
+AMself_output/eval_dump/AMself_2_1/epoch-36.humanAP: 0.8934, MR: 0.4749, JI: 0.7981, Recall: 0.9518
+AMself_output/eval_dump/AMself_2_1/epoch-37.humanAP: 0.8915, MR: 0.5054, JI: 0.8062, Recall: 0.9491
+AMself_output/eval_dump/AMself_2_1/epoch-38.humanAP: 0.8971, MR: 0.5010, JI: 0.8182, Recall: 0.9529
+AMself_output/eval_dump/AMself_2_1/epoch-39.humanAP: 0.8918, MR: 0.4703, JI: 0.8109, Recall: 0.9457
+AMself_output/eval_dump/AMself_2_1/epoch-40.humanAP: 0.9119, MR: 0.4357, JI: 0.8358, Recall: 0.9574
+AMself_output/eval_dump/AMself_2_1/epoch-41.humanAP: 0.9138, MR: 0.4368, JI: 0.8363, Recall: 0.9596
+AMself_output/eval_dump/AMself_2_1/epoch-42.humanAP: 0.9157, MR: 0.4315, JI: 0.8372, Recall: 0.9608
+AMself_output/eval_dump/AMself_2_1/epoch-43.humanAP: 0.9180, MR: 0.4310, JI: 0.8393, Recall: 0.9628
+AMself_output/eval_dump/AMself_2_1/epoch-44.humanAP: 0.9181, MR: 0.4303, JI: 0.8398, Recall: 0.9616
+AMself_output/eval_dump/AMself_2_1/epoch-45.humanAP: 0.9178, MR: 0.4333, JI: 0.8399, Recall: 0.9612
+AMself_output/eval_dump/AMself_2_1/epoch-46.humanAP: 0.9180, MR: 0.4290, JI: 0.8409, Recall: 0.9606
+AMself_output/eval_dump/AMself_2_1/epoch-47.humanAP: 0.9187, MR: 0.4265, JI: 0.8427, Recall: 0.9608
+AMself_output/eval_dump/AMself_2_1/epoch-48.humanAP: 0.9195, MR: 0.4284, JI: 0.8413, Recall: 0.9621
+AMself_output/eval_dump/AMself_2_1/epoch-49.humanAP: 0.9197, MR: 0.4219, JI: 0.8421, Recall: 0.9617
+AMself_output/eval_dump/AMself_2_1/epoch-50.humanAP: 0.9197, MR: 0.4211, JI: 0.8416, Recall: 0.9618
+AMself_output/eval_dump/AMself_2_1/epoch-51.humanAP: 0.9192, MR: 0.4254, JI: 0.8419, Recall: 0.9612
+AMself_output/eval_dump/AMself_2_1/epoch-52.humanAP: 0.9202, MR: 0.4251, JI: 0.8400, Recall: 0.9633
+AMself_output/eval_dump/AMself_2_1/epoch-53.humanAP: 0.9212, MR: 0.4163, JI: 0.8435, Recall: 0.9625  *
+AMself_output/eval_dump/AMself_2_1/epoch-54.humanAP: 0.9203, MR: 0.4230, JI: 0.8436, Recall: 0.9615
+AMself_output/eval_dump/AMself_2_1/epoch-55.humanAP: 0.9210, MR: 0.4195, JI: 0.8443, Recall: 0.9629
+AMself_output/eval_dump/AMself_2_1/epoch-56.humanAP: 0.9209, MR: 0.4224, JI: 0.8427, Recall: 0.9618
+AMself_output/eval_dump/AMself_2_1/epoch-57.humanAP: 0.9199, MR: 0.4245, JI: 0.8439, Recall: 0.9607
+AMself_output/eval_dump/AMself_2_1/epoch-58.humanAP: 0.9207, MR: 0.4209, JI: 0.8436, Recall: 0.9623
+AMself_output/eval_dump/AMself_2_1/epoch-59.humanAP: 0.9215, MR: 0.4201, JI: 0.8431, Recall: 0.9625    *
+AMself_output/eval_dump/APS_baseline/epoch-40.humanAP: 0.9116, MR: 0.4303, JI: 0.8368, Recall: 0.9556
+AMself_output/eval_dump/APS_baseline/epoch-41.humanAP: 0.9136, MR: 0.4245, JI: 0.8381, Recall: 0.9574
+AMself_output/eval_dump/APS_baseline/epoch-42.humanAP: 0.9155, MR: 0.4186, JI: 0.8396, Recall: 0.9590
+AMself_output/eval_dump/APS_baseline/epoch-43.humanAP: 0.9173, MR: 0.4232, JI: 0.8397, Recall: 0.9606
+AMself_output/eval_dump/APS_baseline/epoch-44.humanAP: 0.9178, MR: 0.4223, JI: 0.8411, Recall: 0.9597
+AMself_output/eval_dump/APS_baseline/epoch-45.humanAP: 0.9169, MR: 0.4222, JI: 0.8410, Recall: 0.9588
+AMself_output/eval_dump/APS_baseline/epoch-46.humanAP: 0.9185, MR: 0.4172, JI: 0.8432, Recall: 0.9611
+AMself_output/eval_dump/APS_baseline/epoch-47.humanAP: 0.9201, MR: 0.4174, JI: 0.8448, Recall: 0.9616
+AMself_output/eval_dump/APS_baseline/epoch-48.humanAP: 0.9205, MR: 0.4186, JI: 0.8424, Recall: 0.9619
+AMself_output/eval_dump/APS_baseline/epoch-49.humanAP: 0.9200, MR: 0.4152, JI: 0.8433, Recall: 0.9619
+AMself_output/eval_dump/APS_baseline/epoch-50.humanAP: 0.9201, MR: 0.4173, JI: 0.8446, Recall: 0.9614
+AMself_output/eval_dump/APS_baseline/epoch-51.humanAP: 0.9208, MR: 0.4173, JI: 0.8432, Recall: 0.9614
+AMself_output/eval_dump/APS_baseline/epoch-52.humanAP: 0.9192, MR: 0.4207, JI: 0.8444, Recall: 0.9601
+AMself_output/eval_dump/APS_baseline/epoch-53.humanAP: 0.9201, MR: 0.4108, JI: 0.8455, Recall: 0.9603
+AMself_output/eval_dump/APS_baseline/epoch-54.humanAP: 0.9206, MR: 0.4184, JI: 0.8464, Recall: 0.9602
+AMself_output/eval_dump/APS_baseline/epoch-55.humanAP: 0.9214, MR: 0.4187, JI: 0.8461, Recall: 0.9613
+AMself_output/eval_dump/APS_baseline/epoch-56.humanAP: 0.9213, MR: 0.4131, JI: 0.8453, Recall: 0.9621
+AMself_output/eval_dump/APS_baseline/epoch-57.humanAP: 0.9212, MR: 0.4112, JI: 0.8458, Recall: 0.9608
+AMself_output/eval_dump/APS_baseline/epoch-58.humanAP: 0.9200, MR: 0.4104, JI: 0.8456, Recall: 0.9605
+AMself_output/eval_dump/APS_baseline/epoch-59.humanAP: 0.9208, MR: 0.4130, JI: 0.8458, Recall: 0.9606
+AMself_output/eval_dump/AMself_2_2/epoch-40.humanAP: 0.9093, MR: 0.4493, JI: 0.8298, Recall: 0.9551
+AMself_output/eval_dump/AMself_2_2/epoch-41.humanAP: 0.9136, MR: 0.4335, JI: 0.8337, Recall: 0.9587
+AMself_output/eval_dump/AMself_2_2/epoch-42.humanAP: 0.9140, MR: 0.4274, JI: 0.8369, Recall: 0.9578
+AMself_output/eval_dump/AMself_2_2/epoch-43.humanAP: 0.9163, MR: 0.4276, JI: 0.8389, Recall: 0.9592
+AMself_output/eval_dump/AMself_2_2/epoch-44.humanAP: 0.9156, MR: 0.4318, JI: 0.8404, Recall: 0.9576
+AMself_output/eval_dump/AMself_2_2/epoch-45.humanAP: 0.9161, MR: 0.4348, JI: 0.8389, Recall: 0.9590
+AMself_output/eval_dump/AMself_2_2/epoch-46.humanAP: 0.9169, MR: 0.4256, JI: 0.8373, Recall: 0.9602
+AMself_output/eval_dump/AMself_2_2/epoch-47.humanAP: 0.9173, MR: 0.4266, JI: 0.8393, Recall: 0.9598
+AMself_output/eval_dump/AMself_2_2/epoch-48.humanAP: 0.9184, MR: 0.4250, JI: 0.8414, Recall: 0.9603
+AMself_output/eval_dump/AMself_2_2/epoch-49.humanAP: 0.9192, MR: 0.4156, JI: 0.8397, Recall: 0.9621
+AMself_output/eval_dump/AMself_2_2/epoch-50.humanAP: 0.9198, MR: 0.4250, JI: 0.8416, Recall: 0.9618
+AMself_output/eval_dump/AMself_2_2/epoch-51.humanAP: 0.9200, MR: 0.4238, JI: 0.8419, Recall: 0.9614
+AMself_output/eval_dump/AMself_2_2/epoch-52.humanAP: 0.9202, MR: 0.4167, JI: 0.8408, Recall: 0.9619
+AMself_output/eval_dump/AMself_2_2/epoch-53.humanAP: 0.9197, MR: 0.4140, JI: 0.8436, Recall: 0.9607 *
+AMself_output/eval_dump/AMself_2_2/epoch-54.humanAP: 0.9197, MR: 0.4215, JI: 0.8432, Recall: 0.9605
+AMself_output/eval_dump/AMself_2_2/epoch-55.humanAP: 0.9202, MR: 0.4213, JI: 0.8430, Recall: 0.9604
+AMself_output/eval_dump/AMself_2_2/epoch-56.humanAP: 0.9195, MR: 0.4230, JI: 0.8424, Recall: 0.9612
+AMself_output/eval_dump/AMself_2_2/epoch-57.humanAP: 0.9209, MR: 0.4254, JI: 0.8428, Recall: 0.9616
+AMself_output/eval_dump/AMself_2_2/epoch-58.humanAP: 0.9209, MR: 0.4203, JI: 0.8423, Recall: 0.9625
+AMself_output/eval_dump/AMself_2_2/epoch-59.humanAP: 0.9206, MR: 0.4252, JI: 0.8420, Recall: 0.9613
+AMself_output/eval_dump/AMself_2_3/epoch-40.humanAP: 0.9114, MR: 0.4439, JI: 0.8331, Recall: 0.9581
+AMself_output/eval_dump/AMself_2_3/epoch-41.humanAP: 0.9130, MR: 0.4359, JI: 0.8346, Recall: 0.9588
+AMself_output/eval_dump/AMself_2_3/epoch-42.humanAP: 0.9151, MR: 0.4333, JI: 0.8372, Recall: 0.9602
+AMself_output/eval_dump/AMself_2_3/epoch-43.humanAP: 0.9162, MR: 0.4320, JI: 0.8400, Recall: 0.9605
+AMself_output/eval_dump/AMself_2_3/epoch-44.humanAP: 0.9180, MR: 0.4337, JI: 0.8404, Recall: 0.9628
+AMself_output/eval_dump/AMself_2_3/epoch-45.humanAP: 0.9170, MR: 0.4287, JI: 0.8410, Recall: 0.9600
+AMself_output/eval_dump/AMself_2_3/epoch-46.humanAP: 0.9170, MR: 0.4301, JI: 0.8407, Recall: 0.9607
+AMself_output/eval_dump/AMself_2_3/epoch-47.humanAP: 0.9189, MR: 0.4272, JI: 0.8415, Recall:   0.9615
+AMself_output/eval_dump/AMself_2_3/epoch-48.humanAP: 0.9192, MR: 0.4238, JI: 0.8423, Recall: 0.9621
+AMself_output/eval_dump/AMself_2_3/epoch-49.humanAP: 0.9188, MR: 0.4293, JI: 0.8427, Recall: 0.9622
+AMself_output/eval_dump/AMself_2_3/epoch-50.humanAP: 0.9199, MR: 0.4232, JI: 0.8442, Recall: 0.9619
+AMself_output/eval_dump/AMself_2_3/epoch-51.humanAP: 0.9198, MR: 0.4231, JI: 0.8439, Recall: 0.9620
+AMself_output/eval_dump/AMself_2_3/epoch-52.humanAP: 0.9204, MR: 0.4193, JI: 0.8423, Recall: 0.9628
+AMself_output/eval_dump/AMself_2_3/epoch-53.humanAP: 0.9211, MR: 0.4218, JI: 0.8438, Recall: 0.9630  *
+AMself_output/eval_dump/AMself_2_3/epoch-54.humanAP: 0.9188, MR: 0.4277, JI: 0.8440, Recall: 0.9604
+AMself_output/eval_dump/AMself_2_3/epoch-55.humanAP: 0.9212, MR: 0.4228, JI: 0.8443, Recall: 0.9624
+AMself_output/eval_dump/AMself_2_3/epoch-56.humanAP: 0.9203, MR: 0.4309, JI: 0.8440, Recall: 0.9626
+AMself_output/eval_dump/AMself_2_3/epoch-57.humanAP: 0.9217, MR: 0.4241, JI: 0.8441, Recall: 0.9631  *
+AMself_output/eval_dump/AMself_2_3/epoch-58.humanAP: 0.9209, MR: 0.4224, JI: 0.8432, Recall: 0.9629
+AMself_output/eval_dump/AMself_2_3/epoch-59.humanAP: 0.9208, MR: 0.4251, JI: 0.8449, Recall: 0.9628
+
+AMself_output/eval_dump/DETR_Baseline/epoch-45.humanAP: 0.9067, MR: 0.4540, JI: 0.8264, Recall: 0.9580
+AMself_output/eval_dump/DETR_Baseline/epoch-46.humanAP: 0.9065, MR: 0.4492, JI: 0.8273, Recall: 0.9568
+AMself_output/eval_dump/DETR_Baseline/epoch-47.humanAP: 0.9075, MR: 0.4529, JI: 0.8280, Recall: 0.9582
+AMself_output/eval_dump/DETR_Baseline/epoch-48.humanAP: 0.9077, MR: 0.4515, JI: 0.8281, Recall: 0.9596
+AMself_output/eval_dump/DETR_Baseline/epoch-49.humanAP: 0.9097, MR: 0.4459, JI: 0.8308, Recall: 0.9602
+AMself_output/eval_dump/DETR_Baseline/epoch-50.humanAP: 0.9088, MR: 0.4482, JI: 0.8300, Recall: 0.9593
+AMself_output/eval_dump/DETR_Baseline/epoch-51.humanAP: 0.9102, MR: 0.4485, JI: 0.8300, Recall: 0.9603
+AMself_output/eval_dump/DETR_Baseline/epoch-52.humanAP: 0.9118, MR: 0.4469, JI: 0.8322, Recall: 0.9623
+AMself_output/eval_dump/DETR_Baseline/epoch-53.humanAP: 0.9115, MR: 0.4406, JI: 0.8317, Recall: 0.9606
+AMself_output/eval_dump/DETR_Baseline/epoch-54.humanAP: 0.9117, MR: 0.4405, JI: 0.8316, Recall: 0.9613
+AMself_output/eval_dump/DETR_Baseline/epoch-55.humanAP: 0.9119, MR: 0.4410, JI: 0.8334, Recall: 0.9613
+AMself_output/eval_dump/DETR_Baseline/epoch-56.humanAP: 0.9112, MR: 0.4478, JI: 0.8328, Recall: 0.9600
+AMself_output/eval_dump/DETR_Baseline/epoch-57.humanAP: 0.9121, MR: 0.4391, JI: 0.8333, Recall: 0.9611
+AMself_output/eval_dump/DETR_Baseline/epoch-58.humanAP: 0.9125, MR: 0.4383, JI: 0.8345, Recall: 0.9608 %
+AMself_output/eval_dump/DETR_Baseline/epoch-59.humanAP: 0.9122, MR: 0.4384, JI: 0.8328, Recall: 0.9607
+
+AMself_output/eval_dump/AMself_4_1/epoch-61.humanAP: 0.9229, MR: 0.4159, JI: 0.8463, Recall: 0.9614
+AMself_output/eval_dump/AMself_4_1/epoch-62.humanAP: 0.9225, MR: 0.4139, JI: 0.8472, Recall: 0.9617
+AMself_output/eval_dump/AMself_4_1/epoch-63.humanAP: 0.9240, MR: 0.4120, JI: 0.8473, Recall: 0.9622 %
+AMself_output/eval_dump/AMself_4_1/epoch-64.humanAP: 0.9227, MR: 0.4168, JI: 0.8468, Recall: 0.9611
+AMself_output/eval_dump/AMself_4_1/epoch-65.humanAP: 0.9233, MR: 0.4196, JI: 0.8476, Recall: 0.9615
+AMself_output/eval_dump/AMself_4_1/epoch-66.humanAP: 0.9236, MR: 0.4127, JI: 0.8487, Recall: 0.9615
+AMself_output/eval_dump/AMself_4_1/epoch-67.humanAP: 0.9227, MR: 0.4137, JI: 0.8475, Recall: 0.9615
+AMself_output/eval_dump/AMself_4_1/epoch-68.humanAP: 0.9230, MR: 0.4142, JI: 0.8492, Recall: 0.9611
+AMself_output/eval_dump/AMself_4_1/epoch-69.humanAP: 0.9232, MR: 0.4120, JI: 0.8469, Recall: 0.9609
+
+AMself_output/eval_dump/AMself_4_2/epoch-45.humanAP: 0.9217, MR: 0.4197, JI: 0.8433, Recall: 0.9625
+AMself_output/eval_dump/AMself_4_2/epoch-46.humanAP: 0.9201, MR: 0.4277, JI: 0.8427, Recall: 0.9612
+AMself_output/eval_dump/AMself_4_2/epoch-47.humanAP: 0.9222, MR: 0.4255, JI: 0.8436, Recall: 0.9629
+AMself_output/eval_dump/AMself_4_2/epoch-48.humanAP: 0.9223, MR: 0.4268, JI: 0.8442, Recall: 0.9631
+AMself_output/eval_dump/AMself_4_2/epoch-49.humanAP: 0.9223, MR: 0.4232, JI: 0.8442, Recall: 0.9625
+AMself_output/eval_dump/AMself_4_2/epoch-50.humanAP: 0.9229, MR: 0.4269, JI: 0.8440, Recall: 0.9636
+AMself_output/eval_dump/AMself_4_2/epoch-51.humanAP: 0.9234, MR: 0.4281, JI: 0.8445, Recall: 0.9634
+AMself_output/eval_dump/AMself_4_2/epoch-52.humanAP: 0.9224, MR: 0.4211, JI: 0.8440, Recall: 0.9617
+AMself_output/eval_dump/AMself_4_2/epoch-53.humanAP: 0.9234, MR: 0.4184, JI: 0.8451, Recall: 0.9627
+AMself_output/eval_dump/AMself_4_2/epoch-54.humanAP: 0.9228, MR: 0.4157, JI: 0.8462, Recall: 0.9616
+AMself_output/eval_dump/AMself_4_2/epoch-55.humanAP: 0.9246, MR: 0.4194, JI: 0.8481, Recall: 0.9632 %
+AMself_output/eval_dump/AMself_4_2/epoch-56.humanAP: 0.9240, MR: 0.4233, JI: 0.8450, Recall: 0.9636
+AMself_output/eval_dump/AMself_4_2/epoch-57.humanAP: 0.9229, MR: 0.4153, JI: 0.8451, Recall: 0.9614
+AMself_output/eval_dump/AMself_4_2/epoch-58.humanAP: 0.9248, MR: 0.4157, JI: 0.8452, Recall: 0.9645
+AMself_output/eval_dump/AMself_4_2/epoch-59.humanAP: 0.9240, MR: 0.4151, JI: 0.8467, Recall: 0.9617
+
+AMself_output/eval_dump/AMself_5_1/epoch-45.humanAP: 0.9182, MR: 0.4200, JI: 0.8412, Recall: 0.9587
+AMself_output/eval_dump/AMself_5_1/epoch-46.humanAP: 0.9190, MR: 0.4221, JI: 0.8418, Recall: 0.9584
+AMself_output/eval_dump/AMself_5_1/epoch-47.humanAP: 0.9209, MR: 0.4143, JI: 0.8433, Recall: 0.9594
+AMself_output/eval_dump/AMself_5_1/epoch-48.humanAP: 0.9211, MR: 0.4186, JI: 0.8436, Recall: 0.9608
+AMself_output/eval_dump/AMself_5_1/epoch-49.humanAP: 0.9214, MR: 0.4164, JI: 0.8425, Recall: 0.9619
+AMself_output/eval_dump/AMself_5_1/epoch-50.humanAP: 0.9214, MR: 0.4140, JI: 0.8434, Recall: 0.9601
+AMself_output/eval_dump/AMself_5_1/epoch-51.humanAP: 0.9217, MR: 0.4198, JI: 0.8439, Recall: 0.9604
+AMself_output/eval_dump/AMself_5_1/epoch-52.humanAP: 0.9210, MR: 0.4192, JI: 0.8424, Recall: 0.9602
+AMself_output/eval_dump/AMself_5_1/epoch-53.humanAP: 0.9202, MR: 0.4198, JI: 0.8442, Recall: 0.9584
+AMself_output/eval_dump/AMself_5_1/epoch-54.humanAP: 0.9220, MR: 0.4133, JI: 0.8453, Recall: 0.9602
+AMself_output/eval_dump/AMself_5_1/epoch-55.humanAP: 0.9225, MR: 0.4106, JI: 0.8448, Recall: 0.9612 %
+AMself_output/eval_dump/AMself_5_1/epoch-56.humanAP: 0.9222, MR: 0.4151, JI: 0.8442, Recall: 0.9611
+AMself_output/eval_dump/AMself_5_1/epoch-57.humanAP: 0.9216, MR: 0.4119, JI: 0.8438, Recall: 0.9593
+AMself_output/eval_dump/AMself_5_1/epoch-58.humanAP: 0.9225, MR: 0.4151, JI: 0.8449, Recall: 0.9604
+
+AMself_output/eval_dump/AMself_5_1_norm/epoch-49.humanAP: 0.9127, MR: 0.4272, JI: 0.8300, Recall: 0.9545
+AMself_output/eval_dump/AMself_5_1_norm/epoch-50.humanAP: 0.9134, MR: 0.4329, JI: 0.8297, Recall: 0.9556
+AMself_output/eval_dump/AMself_5_1_norm/epoch-51.humanAP: 0.9130, MR: 0.4298, JI: 0.8302, Recall: 0.9533
+AMself_output/eval_dump/AMself_5_1_norm/epoch-52.humanAP: 0.9110, MR: 0.4283, JI: 0.8309, Recall: 0.9513
+AMself_output/eval_dump/AMself_5_1_norm/epoch-53.humanAP: 0.9101, MR: 0.4260, JI: 0.8274, Recall: 0.9512
+AMself_output/eval_dump/AMself_5_1_norm/epoch-54.humanAP: 0.9121, MR: 0.4268, JI: 0.8310, Recall: 0.9531
+
+AMself_output/eval_dump/AMself_5_2_2/epoch-60.humanAP: 0.9227, MR: 0.4185, JI: 0.8442, Recall: 0.9619
+AMself_output/eval_dump/AMself_5_2_2/epoch-61.humanAP: 0.9222, MR: 0.4167, JI: 0.8437, Recall: 0.9612
+AMself_output/eval_dump/AMself_5_2_2/epoch-62.humanAP: 0.9224, MR: 0.4148, JI: 0.8459, Recall: 0.9604%
+AMself_output/eval_dump/AMself_5_2_2/epoch-63.humanAP: 0.9228, MR: 0.4275, JI: 0.8442, Recall: 0.9629
+AMself_output/eval_dump/AMself_5_2_2/epoch-64.humanAP: 0.9232, MR: 0.4171, JI: 0.8437, Recall: 0.9635
+AMself_output/eval_dump/AMself_5_2_2/epoch-64.humanAP: 0.9232, MR: 0.4171, JI: 0.8437, Recall: 0.9635
+AMself_output/eval_dump/AMself_5_2_2/epoch-65.humanAP: 0.9237, MR: 0.4164, JI: 0.8467, Recall: 0.9619 %
+AMself_output/eval_dump/AMself_5_2_2/epoch-66.humanAP: 0.9227, MR: 0.4169, JI: 0.8466, Recall: 0.9606
+AMself_output/eval_dump/AMself_5_2_2/epoch-67.humanAP: 0.9222, MR: 0.4211, JI: 0.8465, Recall: 0.9599
+AMself_output/eval_dump/AMself_5_2_2/epoch-68.humanAP: 0.9223, MR: 0.4250, JI: 0.8470, Recall: 0.9600
+AMself_output/eval_dump/AMself_5_2_2/epoch-69.humanAP: 0.9237, MR: 0.4190, JI: 0.8465, Recall: 0.9608
+
+
+AMself_output/eval_dump/AMself_5_2/epoch-45.humanAP: 0.9206, MR: 0.4165, JI: 0.8440, Recall: 0.9606
+AMself_output/eval_dump/AMself_5_2/epoch-46.humanAP: 0.9210, MR: 0.4162, JI: 0.8445, Recall: 0.9600
+AMself_output/eval_dump/AMself_5_2/epoch-47.humanAP: 0.9216, MR: 0.4127, JI: 0.8463, Recall: 0.9600
+AMself_output/eval_dump/AMself_5_2/epoch-48.humanAP: 0.9220, MR: 0.4141, JI: 0.8443, Recall: 0.9607
+AMself_output/eval_dump/AMself_5_2/epoch-49.humanAP: 0.9219, MR: 0.4075, JI: 0.8442, Recall: 0.9618
+AMself_output/eval_dump/AMself_5_2/epoch-50.humanAP: 0.9212, MR: 0.4231, JI: 0.8450, Recall: 0.9606
+AMself_output/eval_dump/AMself_5_2/epoch-51.humanAP: 0.9220, MR: 0.4148, JI: 0.8449, Recall: 0.9608
+AMself_output/eval_dump/AMself_5_2/epoch-52.humanAP: 0.9217, MR: 0.4180, JI: 0.8464, Recall: 0.9601
+AMself_output/eval_dump/AMself_5_2/epoch-53.humanAP: 0.9216, MR: 0.4069, JI: 0.8446, Recall: 0.9598
+AMself_output/eval_dump/AMself_5_2/epoch-54.humanAP: 0.9228, MR: 0.4133, JI: 0.8472, Recall: 0.9605
+AMself_output/eval_dump/AMself_5_2/epoch-55.humanAP: 0.9242, MR: 0.4090, JI: 0.8474, Recall: 0.9628 %
+AMself_output/eval_dump/AMself_5_2/epoch-56.humanAP: 0.9244, MR: 0.4160, JI: 0.8475, Recall: 0.9625
+AMself_output/eval_dump/AMself_5_2/epoch-57.humanAP: 0.9233, MR: 0.4185, JI: 0.8462, Recall: 0.9623
+AMself_output/eval_dump/AMself_5_2/epoch-58.humanAP: 0.9239, MR: 0.4116, JI: 0.8449, Recall: 0.9626
+AMself_output/eval_dump/AMself_5_2/epoch-59.humanAP: 0.9241, MR: 0.4178, JI: 0.8469, Recall: 0.9619
+
+AMself_output/eval_dump/AMself_5_3/epoch-46.humanAP: 0.9193, MR: 0.4252, JI: 0.8425, Recall: 0.9590
+AMself_output/eval_dump/AMself_5_3/epoch-47.humanAP: 0.9207, MR: 0.4188, JI: 0.8443, Recall: 0.9594
+AMself_output/eval_dump/AMself_5_3/epoch-48.humanAP: 0.9222, MR: 0.4132, JI: 0.8451, Recall: 0.9614
+AMself_output/eval_dump/AMself_5_3/epoch-49.humanAP: 0.9207, MR: 0.4179, JI: 0.8454, Recall: 0.9597
+AMself_output/eval_dump/AMself_5_3/epoch-50.humanAP: 0.9204, MR: 0.4142, JI: 0.8450, Recall: 0.9583
+AMself_output/eval_dump/AMself_5_3/epoch-51.humanAP: 0.9216, MR: 0.4132, JI: 0.8458, Recall: 0.9601
+AMself_output/eval_dump/AMself_5_3/epoch-52.humanAP: 0.9203, MR: 0.4187, JI: 0.8437, Recall: 0.9592
+AMself_output/eval_dump/AMself_5_3/epoch-53.humanAP: 0.9226, MR: 0.4120, JI: 0.8452, Recall: 0.9622
+AMself_output/eval_dump/AMself_5_3/epoch-54.humanAP: 0.9226, MR: 0.4095, JI: 0.8462, Recall: 0.9603 %
+AMself_output/eval_dump/AMself_5_3/epoch-55.humanAP: 0.9227, MR: 0.4100, JI: 0.8448, Recall: 0.9608
+AMself_output/eval_dump/AMself_5_3/epoch-56.humanAP: 0.9233, MR: 0.4212, JI: 0.8446, Recall: 0.9627
+AMself_output/eval_dump/AMself_5_3/epoch-57.humanAP: 0.9224, MR: 0.4126, JI: 0.8468, Recall: 0.9607
+AMself_output/eval_dump/AMself_5_3/epoch-58.humanAP: 0.9230, MR: 0.4167, JI: 0.8453, Recall: 0.9611
+AMself_output/eval_dump/AMself_5_3/epoch-59.humanAP: 0.9232, MR: 0.4127, JI: 0.8465, Recall: 0.9613
+
+AMself_output/eval_dump/AMself_6_1/epoch-49.humanAP: 0.9216, MR: 0.4190, JI: 0.8452, Recall: 0.9615 %
+AMself_output/eval_dump/AMself_6_1/epoch-50.humanAP: 0.9204, MR: 0.4235, JI: 0.8459, Recall: 0.9601
+AMself_output/eval_dump/AMself_6_1/epoch-51.humanAP: 0.9216, MR: 0.4239, JI: 0.8456, Recall: 0.9603
+AMself_output/eval_dump/AMself_6_1/epoch-52.humanAP: 0.9197, MR: 0.4221, JI: 0.8447, Recall: 0.9582
+AMself_output/eval_dump/AMself_6_1/epoch-53.humanAP: 0.9218, MR: 0.4169, JI: 0.8469, Recall: 0.9597
+AMself_output/eval_dump/AMself_6_1/epoch-54.humanAP: 0.9209, MR: 0.4304, JI: 0.8463, Recall: 0.9600
+
+AMself_output/eval_dump/AMself_6_2/epoch-49.humanAP: 0.9228, MR: 0.4160, JI: 0.8438, Recall: 0.9629
+AMself_output/eval_dump/AMself_6_2/epoch-50.humanAP: 0.9216, MR: 0.4214, JI: 0.8423, Recall: 0.9622
+AMself_output/eval_dump/AMself_6_2/epoch-51.humanAP: 0.9228, MR: 0.4167, JI: 0.8465, Recall: 0.9619
+AMself_output/eval_dump/AMself_6_2/epoch-52.humanAP: 0.9218, MR: 0.4215, JI: 0.8450, Recall: 0.9609
+AMself_output/eval_dump/AMself_6_2/epoch-53.humanAP: 0.9235, MR: 0.4124, JI: 0.8459, Recall: 0.9621 %
+AMself_output/eval_dump/AMself_6_2/epoch-54.humanAP: 0.9232, MR: 0.4144, JI: 0.8461, Recall: 0.9615
+
+AMself_output/eval_dump/AMself_6_3/epoch-49.humanAP: 0.9214, MR: 0.4280, JI: 0.8437, Recall: 0.9625
+AMself_output/eval_dump/AMself_6_3/epoch-50.humanAP: 0.9204, MR: 0.4255, JI: 0.8441, Recall: 0.9611
+AMself_output/eval_dump/AMself_6_3/epoch-51.humanAP: 0.9218, MR: 0.4349, JI: 0.8442, Recall: 0.9624
+AMself_output/eval_dump/AMself_6_3/epoch-52.humanAP: 0.9205, MR: 0.4240, JI: 0.8449, Recall: 0.9605
+AMself_output/eval_dump/AMself_6_3/epoch-53.humanAP: 0.9203, MR: 0.4233, JI: 0.8461, Recall: 0.9600
+AMself_output/eval_dump/AMself_6_3/epoch-54.humanAP: 0.9214, MR: 0.4256, JI: 0.8460, Recall: 0.9605
+
+AMself_output/eval_dump/AMself_6_4/epoch-49.humanAP: 0.9212, MR: 0.4298, JI: 0.8441, Recall: 0.9618
+AMself_output/eval_dump/AMself_6_4/epoch-50.humanAP: 0.9211, MR: 0.4227, JI: 0.8446, Recall: 0.9614
+AMself_output/eval_dump/AMself_6_4/epoch-51.humanAP: 0.9216, MR: 0.4217, JI: 0.8453, Recall: 0.9609
+AMself_output/eval_dump/AMself_6_4/epoch-52.humanAP: 0.9210, MR: 0.4216, JI: 0.8440, Recall: 0.9598
+AMself_output/eval_dump/AMself_6_4/epoch-53.humanAP: 0.9223, MR: 0.4263, JI: 0.8451, Recall: 0.9612
+AMself_output/eval_dump/AMself_6_4/epoch-54.humanAP: 0.9217, MR: 0.4244, JI: 0.8454, Recall: 0.9604
+
+AMself_output/eval_dump/AMself_6_5/epoch-49.humanAP: 0.9213, MR: 0.4226, JI: 0.8416, Recall: 0.9625
+AMself_output/eval_dump/AMself_6_5/epoch-50.humanAP: 0.9211, MR: 0.4217, JI: 0.8436, Recall: 0.9614
+AMself_output/eval_dump/AMself_6_5/epoch-51.humanAP: 0.9200, MR: 0.4209, JI: 0.8423, Recall: 0.9604
+AMself_output/eval_dump/AMself_6_5/epoch-52.humanAP: 0.9213, MR: 0.4150, JI: 0.8407, Recall: 0.9616
+AMself_output/eval_dump/AMself_6_5/epoch-53.humanAP: 0.9218, MR: 0.4193, JI: 0.8445, Recall: 0.9616
+AMself_output/eval_dump/AMself_6_5/epoch-54.humanAP: 0.9215, MR: 0.4147, JI: 0.8445, Recall: 0.9608
+
+AMself_output/eval_dump/AMself_6_6/epoch-49.humanAP: 0.9232, MR: 0.4182, JI: 0.8404, Recall: 0.9643
+AMself_output/eval_dump/AMself_6_6/epoch-50.humanAP: 0.9226, MR: 0.4180, JI: 0.8411, Recall: 0.9620 %
+AMself_output/eval_dump/AMself_6_6/epoch-51.humanAP: 0.9230, MR: 0.4187, JI: 0.8402, Recall: 0.9625
+AMself_output/eval_dump/AMself_6_6/epoch-52.humanAP: 0.9231, MR: 0.4290, JI: 0.8433, Recall: 0.9620
+AMself_output/eval_dump/AMself_6_6/epoch-53.humanAP: 0.9227, MR: 0.4190, JI: 0.8394, Recall: 0.9624
+AMself_output/eval_dump/AMself_6_6/epoch-54.humanAP: 0.9224, MR: 0.4199, JI: 0.8416, Recall: 0.9620
+
+AMself_output/eval_dump/AMself_10_0/epoch-49.humanAP: 0.9215, MR: 0.4274, JI: 0.8369, Recall: 0.9631
+AMself_output/eval_dump/AMself_10_0/epoch-50.humanAP: 0.9222, MR: 0.4250, JI: 0.8373, Recall: 0.9627 %
+AMself_output/eval_dump/AMself_10_0/epoch-51.humanAP: 0.9228, MR: 0.4290, JI: 0.8420, Recall: 0.9635
+AMself_output/eval_dump/AMself_10_0/epoch-52.humanAP: 0.9227, MR: 0.4296, JI: 0.8410, Recall: 0.9629
+AMself_output/eval_dump/AMself_10_0/epoch-53.humanAP: 0.9225, MR: 0.4327, JI: 0.8388, Recall: 0.9642
+
+AMself_output/eval_dump/AMself_10_1/epoch-49.humanAP: 0.9213, MR: 0.4339, JI: 0.8411, Recall: 0.9617
+AMself_output/eval_dump/AMself_10_1/epoch-50.humanAP: 0.9236, MR: 0.4298, JI: 0.8428, Recall: 0.9636
+AMself_output/eval_dump/AMself_10_1/epoch-51.humanAP: 0.9226, MR: 0.4286, JI: 0.8417, Recall: 0.9620 %
+AMself_output/eval_dump/AMself_10_1/epoch-52.humanAP: 0.9229, MR: 0.4291, JI: 0.8396, Recall: 0.9638
+AMself_output/eval_dump/AMself_10_1/epoch-53.humanAP: 0.9232, MR: 0.4238, JI: 0.8390, Recall: 0.9633
+AMself_output/eval_dump/AMself_10_1/epoch-54.humanAP: 0.9228, MR: 0.4297, JI: 0.8411, Recall: 0.9628
+
+AMself_output/eval_dump/AMself_10_2/epoch-49.humanAP: 0.9206, MR: 0.4268, JI: 0.8386, Recall: 0.9622
+AMself_output/eval_dump/AMself_10_2/epoch-50.humanAP: 0.9225, MR: 0.4186, JI: 0.8388, Recall: 0.9628
+AMself_output/eval_dump/AMself_10_2/epoch-51.humanAP: 0.9224, MR: 0.4225, JI: 0.8400, Recall: 0.9641
+AMself_output/eval_dump/AMself_10_2/epoch-52.humanAP: 0.9231, MR: 0.4165, JI: 0.8400, Recall: 0.9638
+AMself_output/eval_dump/AMself_10_2/epoch-53.humanAP: 0.9232, MR: 0.4147, JI: 0.8407, Recall: 0.9633 %
+AMself_output/eval_dump/AMself_10_2/epoch-54.humanAP: 0.9227, MR: 0.4171, JI: 0.8413, Recall: 0.9635
+
+AMself_output/eval_dump/AMself_10_3/epoch-49.humanAP: 0.9237, MR: 0.4205, JI: 0.8422, Recall: 0.9642
+AMself_output/eval_dump/AMself_10_3/epoch-50.humanAP: 0.9239, MR: 0.4164, JI: 0.8437, Recall: 0.9627
+AMself_output/eval_dump/AMself_10_3/epoch-51.humanAP: 0.9249, MR: 0.4191, JI: 0.8421, Recall: 0.9643
+AMself_output/eval_dump/AMself_10_3/epoch-52.humanAP: 0.9239, MR: 0.4200, JI: 0.8440, Recall: 0.9626
+AMself_output/eval_dump/AMself_10_3/epoch-53.humanAP: 0.9240, MR: 0.4110, JI: 0.8434, Recall: 0.9630  %
+AMself_output/eval_dump/AMself_10_3/epoch-54.humanAP: 0.9239, MR: 0.4192, JI: 0.8445, Recall: 0.9624
+
+AMself_output/eval_dump/AMself_11_0/epoch-49.humanAP: 0.9227, MR: 0.4223, JI: 0.8399, Recall: 0.9626
+AMself_output/eval_dump/AMself_11_0/epoch-50.humanAP: 0.9232, MR: 0.4266, JI: 0.8427, Recall: 0.9623
+AMself_output/eval_dump/AMself_11_0/epoch-51.humanAP: 0.9243, MR: 0.4240, JI: 0.8424, Recall: 0.9647
+AMself_output/eval_dump/AMself_11_0/epoch-52.humanAP: 0.9239, MR: 0.4193, JI: 0.8428, Recall: 0.9631
+AMself_output/eval_dump/AMself_11_0/epoch-53.humanAP: 0.9247, MR: 0.4174, JI: 0.8417, Recall: 0.9649 %
+AMself_output/eval_dump/AMself_11_0/epoch-54.humanAP: 0.9231, MR: 0.4216, JI: 0.8410, Recall: 0.9620
+
+AMself_output/eval_dump/AMself_11_1/epoch-49.humanAP: 0.9229, MR: 0.4183, JI: 0.8446, Recall: 0.9641
+AMself_output/eval_dump/AMself_11_1/epoch-50.humanAP: 0.9226, MR: 0.4208, JI: 0.8439, Recall: 0.9628
+AMself_output/eval_dump/AMself_11_1/epoch-51.humanAP: 0.9230, MR: 0.4230, JI: 0.8432, Recall: 0.9639
+AMself_output/eval_dump/AMself_11_1/epoch-52.humanAP: 0.9233, MR: 0.4176, JI: 0.8432, Recall: 0.9640
+AMself_output/eval_dump/AMself_11_1/epoch-53.humanAP: 0.9228, MR: 0.4126, JI: 0.8414, Recall: 0.9633 %
+AMself_output/eval_dump/AMself_11_1/epoch-54.humanAP: 0.9228, MR: 0.4211, JI: 0.8430, Recall: 0.9635
+
+AMself_output/eval_dump/AMself_11_2/epoch-49.humanAP: 0.9235, MR: 0.4206, JI: 0.8411, Recall: 0.9646
+AMself_output/eval_dump/AMself_11_2/epoch-50.humanAP: 0.9233, MR: 0.4176, JI: 0.8427, Recall: 0.9626
+AMself_output/eval_dump/AMself_11_2/epoch-51.humanAP: 0.9238, MR: 0.4185, JI: 0.8416, Recall: 0.9650
+AMself_output/eval_dump/AMself_11_2/epoch-52.humanAP: 0.9233, MR: 0.4178, JI: 0.8428, Recall: 0.9634
+AMself_output/eval_dump/AMself_11_2/epoch-53.humanAP: 0.9232, MR: 0.4171, JI: 0.8432, Recall: 0.9637
+AMself_output/eval_dump/AMself_11_2/epoch-54.humanAP: 0.9237, MR: 0.4159, JI: 0.8437, Recall: 0.9642 %
+
+AMself_output/eval_dump/AMself_11_3/epoch-49.humanAP: 0.9216, MR: 0.4220, JI: 0.8417, Recall: 0.9632
+AMself_output/eval_dump/AMself_11_3/epoch-50.humanAP: 0.9212, MR: 0.4159, JI: 0.8418, Recall: 0.9613
+AMself_output/eval_dump/AMself_11_3/epoch-51.humanAP: 0.9224, MR: 0.4225, JI: 0.8416, Recall: 0.9639
+AMself_output/eval_dump/AMself_11_3/epoch-52.humanAP: 0.9223, MR: 0.4163, JI: 0.8429, Recall: 0.9624
+AMself_output/eval_dump/AMself_11_3/epoch-53.humanAP: 0.9230, MR: 0.4142, JI: 0.8435, Recall: 0.9629 %
+AMself_output/eval_dump/AMself_11_3/epoch-54.humanAP: 0.9222, MR: 0.4170, JI: 0.8417, Recall: 0.9624
+
+AMself_output/eval_dump/AMself_12_0/epoch-49.humanAP: 0.9222, MR: 0.4229, JI: 0.8382, Recall: 0.9625
+AMself_output/eval_dump/AMself_12_0/epoch-50.humanAP: 0.9225, MR: 0.4241, JI: 0.8414, Recall: 0.9620
+AMself_output/eval_dump/AMself_12_0/epoch-51.humanAP: 0.9244, MR: 0.4227, JI: 0.8407, Recall: 0.9649
+AMself_output/eval_dump/AMself_12_0/epoch-52.humanAP: 0.9225, MR: 0.4170, JI: 0.8405, Recall: 0.9621
+AMself_output/eval_dump/AMself_12_0/epoch-53.humanAP: 0.9243, MR: 0.4163, JI: 0.8412, Recall: 0.9635 %
+AMself_output/eval_dump/AMself_12_0/epoch-54.humanAP: 0.9219, MR: 0.4184, JI: 0.8410, Recall: 0.9607
+
+AMself_output/eval_dump/AMself_12_1/epoch-49.humanAP: 0.9243, MR: 0.4157, JI: 0.8407, Recall: 0.9650
+AMself_output/eval_dump/AMself_12_1/epoch-50.humanAP: 0.9247, MR: 0.4141, JI: 0.8403, Recall: 0.9643
+AMself_output/eval_dump/AMself_12_1/epoch-51.humanAP: 0.9251, MR: 0.4203, JI: 0.8408, Recall: 0.9653
+AMself_output/eval_dump/AMself_12_1/epoch-52.humanAP: 0.9243, MR: 0.4143, JI: 0.8430, Recall: 0.9635
+AMself_output/eval_dump/AMself_12_1/epoch-53.humanAP: 0.9253, MR: 0.4108, JI: 0.8417, Recall: 0.9655 %
+AMself_output/eval_dump/AMself_12_1/epoch-54.humanAP: 0.9250, MR: 0.4155, JI: 0.8422, Recall: 0.9650
+
+
+AMself_output/eval_dump/AMself_12_2/epoch-49.humanAP: 0.9238, MR: 0.4188, JI: 0.8401, Recall: 0.9638
+AMself_output/eval_dump/AMself_12_2/epoch-50.humanAP: 0.9248, MR: 0.4107, JI: 0.8423, Recall: 0.9637
+AMself_output/eval_dump/AMself_12_2/epoch-51.humanAP: 0.9242, MR: 0.4150, JI: 0.8397, Recall: 0.9645
+AMself_output/eval_dump/AMself_12_2/epoch-52.humanAP: 0.9244, MR: 0.4079, JI: 0.8433, Recall: 0.9630
+AMself_output/eval_dump/AMself_12_2/epoch-53.humanAP: 0.9247, MR: 0.3993, JI: 0.8414, Recall: 0.9634 %
+AMself_output/eval_dump/AMself_12_2/epoch-54.humanAP: 0.9244, MR: 0.4082, JI: 0.8422, Recall: 0.9637
+
+AMself_output/eval_dump/AMself_12_3/epoch-49.humanAP: 0.9258, MR: 0.4041, JI: 0.8424, Recall: 0.9650
+AMself_output/eval_dump/AMself_12_3/epoch-50.humanAP: 0.9256, MR: 0.4052, JI: 0.8454, Recall: 0.9638
+AMself_output/eval_dump/AMself_12_3/epoch-51.humanAP: 0.9257, MR: 0.4043, JI: 0.8428, Recall: 0.9652
+AMself_output/eval_dump/AMself_12_3/epoch-52.humanAP: 0.9255, MR: 0.4004, JI: 0.8441, Recall: 0.9635  %%
+AMself_output/eval_dump/AMself_12_3/epoch-53.humanAP: 0.9247, MR: 0.4058, JI: 0.8440, Recall: 0.9639
+AMself_output/eval_dump/AMself_12_3/epoch-54.humanAP: 0.9249, MR: 0.4041, JI: 0.8454, Recall: 0.9627
+
+
+AMself_output/eval_dump/AMself_13_0/epoch-49.humanAP: 0.9241, MR: 0.4064, JI: 0.8432, Recall: 0.9634
+AMself_output/eval_dump/AMself_13_0/epoch-50.humanAP: 0.9240, MR: 0.4095, JI: 0.8405, Recall: 0.9623
+AMself_output/eval_dump/AMself_13_0/epoch-51.humanAP: 0.9247, MR: 0.4073, JI: 0.8419, Recall: 0.9637  %
+AMself_output/eval_dump/AMself_13_0/epoch-52.humanAP: 0.9241, MR: 0.4080, JI: 0.8410, Recall: 0.9628
+AMself_output/eval_dump/AMself_13_0/epoch-53.humanAP: 0.9244, MR: 0.4061, JI: 0.8412, Recall: 0.9633
+AMself_output/eval_dump/AMself_13_0/epoch-54.humanAP: 0.9231, MR: 0.4081, JI: 0.8438, Recall: 0.9613
+
+AMself_output/eval_dump/AMself_13_1/epoch-49.humanAP: 0.9255, MR: 0.4086, JI: 0.8431, Recall: 0.9652
+AMself_output/eval_dump/AMself_13_1/epoch-50.humanAP: 0.9243, MR: 0.4074, JI: 0.8433, Recall: 0.9636
+AMself_output/eval_dump/AMself_13_1/epoch-51.humanAP: 0.9258, MR: 0.4053, JI: 0.8436, Recall: 0.9654
+AMself_output/eval_dump/AMself_13_1/epoch-52.humanAP: 0.9257, MR: 0.4039, JI: 0.8444, Recall: 0.9647 %
+AMself_output/eval_dump/AMself_13_1/epoch-53.humanAP: 0.9254, MR: 0.4051, JI: 0.8443, Recall: 0.9649
+AMself_output/eval_dump/AMself_13_1/epoch-54.humanAP: 0.9254, MR: 0.4088, JI: 0.8445, Recall: 0.9643
+
+AMself_output/eval_dump/AMself_13_2/epoch-49.humanAP: 0.9238, MR: 0.4136, JI: 0.8423, Recall: 0.9632
+AMself_output/eval_dump/AMself_13_2/epoch-50.humanAP: 0.9235, MR: 0.4113, JI: 0.8422, Recall: 0.9619
+AMself_output/eval_dump/AMself_13_2/epoch-51.humanAP: 0.9244, MR: 0.4119, JI: 0.8433, Recall: 0.9629
+AMself_output/eval_dump/AMself_13_2/epoch-52.humanAP: 0.9238, MR: 0.4145, JI: 0.8423, Recall: 0.9629
+AMself_output/eval_dump/AMself_13_2/epoch-53.humanAP: 0.9247, MR: 0.4114, JI: 0.8433, Recall: 0.9634 %
+AMself_output/eval_dump/AMself_13_2/epoch-54.humanAP: 0.9238, MR: 0.4135, JI: 0.8446, Recall: 0.9613
+
+AMself_output/eval_dump/AMself_13_3/epoch-49.humanAP: 0.9239, MR: 0.4081, JI: 0.8428, Recall: 0.9635 %
+AMself_output/eval_dump/AMself_13_3/epoch-50.humanAP: 0.9234, MR: 0.4103, JI: 0.8425, Recall: 0.9618
+AMself_output/eval_dump/AMself_13_3/epoch-51.humanAP: 0.9244, MR: 0.4125, JI: 0.8427, Recall: 0.9635
+AMself_output/eval_dump/AMself_13_3/epoch-52.humanAP: 0.9237, MR: 0.4108, JI: 0.8428, Recall: 0.9620
+AMself_output/eval_dump/AMself_13_3/epoch-53.humanAP: 0.9235, MR: 0.4111, JI: 0.8420, Recall: 0.9619
+AMself_output/eval_dump/AMself_13_3/epoch-54.humanAP: 0.9228, MR: 0.4080, JI: 0.8434, Recall: 0.9615
+
+AMself_output/eval_dump/AMself_14_0/epoch-49.humanAP: 0.9246, MR: 0.4016, JI: 0.8418, Recall: 0.9635 %
+AMself_output/eval_dump/AMself_14_0/epoch-50.humanAP: 0.9241, MR: 0.4069, JI: 0.8427, Recall: 0.9627
+AMself_output/eval_dump/AMself_14_0/epoch-51.humanAP: 0.9240, MR: 0.4075, JI: 0.8426, Recall: 0.9627
+AMself_output/eval_dump/AMself_14_0/epoch-52.humanAP: 0.9238, MR: 0.4083, JI: 0.8426, Recall: 0.9628
+AMself_output/eval_dump/AMself_14_0/epoch-53.humanAP: 0.9232, MR: 0.4076, JI: 0.8413, Recall: 0.9619
+AMself_output/eval_dump/AMself_14_0/epoch-54.humanAP: 0.9238, MR: 0.4064, JI: 0.8427, Recall: 0.9621
+
+AMself_output/eval_dump/AMself_15_0/epoch-49.humanAP: 0.9274, MR: 0.4119, JI: 0.8436, Recall: 0.9671
+AMself_output/eval_dump/AMself_15_0/epoch-50.humanAP: 0.9271, MR: 0.4121, JI: 0.8453, Recall: 0.9660
+AMself_output/eval_dump/AMself_15_0/epoch-51.humanAP: 0.9285, MR: 0.4076, JI: 0.8430, Recall: 0.9682 %
+AMself_output/eval_dump/AMself_15_0/epoch-52.humanAP: 0.9285, MR: 0.4090, JI: 0.8442, Recall: 0.9674
+AMself_output/eval_dump/AMself_15_0/epoch-53.humanAP: 0.9283, MR: 0.4097, JI: 0.8448, Recall: 0.9670
+AMself_output/eval_dump/AMself_15_0/epoch-54.humanAP: 0.9271, MR: 0.4100, JI: 0.8445, Recall: 0.9658
+
+AMself_output/eval_dump/AMself_15_1/epoch-49.humanAP: 0.9191, MR: 0.4326, JI: 0.8320, Recall: 0.9701
+AMself_output/eval_dump/AMself_15_1/epoch-50.humanAP: 0.9194, MR: 0.4326, JI: 0.8341, Recall: 0.9689
+AMself_output/eval_dump/AMself_15_1/epoch-51.humanAP: 0.9199, MR: 0.4272, JI: 0.8336, Recall: 0.9687
+AMself_output/eval_dump/AMself_15_1/epoch-52.humanAP: 0.9197, MR: 0.4287, JI: 0.8348, Recall: 0.9680
+AMself_output/eval_dump/AMself_15_1/epoch-53.humanAP: 0.9195, MR: 0.4262, JI: 0.8332, Recall: 0.9679 %
+AMself_output/eval_dump/AMself_15_1/epoch-54.humanAP: 0.9198, MR: 0.4310, JI: 0.8364, Recall: 0.9678
+
+AMself_output/eval_dump/AMself_16_0/epoch-49.humanAP: 0.9249, MR: 0.3979, JI: 0.8418, Recall: 0.9633
+AMself_output/eval_dump/AMself_16_0/epoch-50.humanAP: 0.9249, MR: 0.3973, JI: 0.8414, Recall: 0.9618
+AMself_output/eval_dump/AMself_16_0/epoch-51.humanAP: 0.9261, MR: 0.4028, JI: 0.8442, Recall: 0.9638
+AMself_output/eval_dump/AMself_16_0/epoch-52.humanAP: 0.9258, MR: 0.4046, JI: 0.8437, Recall: 0.9640
+AMself_output/eval_dump/AMself_16_0/epoch-53.humanAP: 0.9247, MR: 0.3976, JI: 0.8428, Recall: 0.9614 %
+AMself_output/eval_dump/AMself_16_0/epoch-54.humanAP: 0.9254, MR: 0.3988, JI: 0.8428, Recall: 0.9628
+
+AMself_output/eval_dump/AMself_16_1/epoch-49.humanAP: 0.9227, MR: 0.4064, JI: 0.8400, Recall: 0.9610
+AMself_output/eval_dump/AMself_16_1/epoch-50.humanAP: 0.9231, MR: 0.4069, JI: 0.8406, Recall: 0.9607
+AMself_output/eval_dump/AMself_16_1/epoch-51.humanAP: 0.9230, MR: 0.4070, JI: 0.8402, Recall: 0.9611
+AMself_output/eval_dump/AMself_16_1/epoch-52.humanAP: 0.9232, MR: 0.4050, JI: 0.8410, Recall: 0.9604 %
+AMself_output/eval_dump/AMself_16_1/epoch-53.humanAP: 0.9224, MR: 0.4061, JI: 0.8410, Recall: 0.9587
+AMself_output/eval_dump/AMself_16_1/epoch-54.humanAP: 0.9226, MR: 0.4068, JI: 0.8428, Recall: 0.9597
+
+AMself_output/eval_dump/AMself_16_2/epoch-49.humanAP: 0.9275, MR: 0.4072, JI: 0.8421, Recall: 0.9669
+AMself_output/eval_dump/AMself_16_2/epoch-50.humanAP: 0.9292, MR: 0.4135, JI: 0.8446, Recall: 0.9677
+AMself_output/eval_dump/AMself_16_2/epoch-51.humanAP: 0.9293, MR: 0.4115, JI: 0.8447, Recall: 0.9682
+AMself_output/eval_dump/AMself_16_2/epoch-52.humanAP: 0.9289, MR: 0.4103, JI: 0.8442, Recall: 0.9671
+AMself_output/eval_dump/AMself_16_2/epoch-53.humanAP: 0.9293, MR: 0.4086, JI: 0.8418, Recall: 0.9690
+AMself_output/eval_dump/AMself_16_2/epoch-54.humanAP: 0.9294, MR: 0.4083, JI: 0.8454, Recall: 0.9679 %
+
+
+AMself_output/eval_dump/AMself_17_0/epoch-49.humanAP: 0.9251, MR: 0.4048, JI: 0.8429, Recall: 0.9644
+AMself_output/eval_dump/AMself_17_0/epoch-50.humanAP: 0.9232, MR: 0.4065, JI: 0.8414, Recall: 0.9622
+AMself_output/eval_dump/AMself_17_0/epoch-51.humanAP: 0.9248, MR: 0.4088, JI: 0.8427, Recall: 0.9641
+AMself_output/eval_dump/AMself_17_0/epoch-52.humanAP: 0.9241, MR: 0.4057, JI: 0.8443, Recall: 0.9618
+AMself_output/eval_dump/AMself_17_0/epoch-53.humanAP: 0.9249, MR: 0.4043, JI: 0.8424, Recall: 0.9639 %
+AMself_output/eval_dump/AMself_17_0/epoch-54.humanAP: 0.9243, MR: 0.4061, JI: 0.8450, Recall: 0.9625
+
+AMself_output/eval_dump/AMself_18_0/epoch-49.humanAP: 0.9419, MR: 0.3570, JI: 0.8730, Recall: 0.9707
+AMself_output/eval_dump/AMself_18_0/epoch-50.humanAP: 0.9415, MR: 0.3645, JI: 0.8715, Recall: 0.9703
+AMself_output/eval_dump/AMself_18_0/epoch-51.humanAP: 0.9424, MR: 0.3660, JI: 0.8708, Recall: 0.9717
+AMself_output/eval_dump/AMself_18_0/epoch-52.humanAP: 0.9419, MR: 0.3637, JI: 0.8722, Recall: 0.9705
+AMself_output/eval_dump/AMself_18_0/epoch-53.humanAP: 0.9432, MR: 0.3628, JI: 0.8736, Recall: 0.9719 %
+AMself_output/eval_dump/AMself_18_0/epoch-54.humanAP: 0.9413, MR: 0.3621, JI: 0.8718, Recall: 0.9703
+AMself_output/eval_dump/AMself_12_3/epoch-49.humanAP: 0.9258, MR: 0.4041, JI: 0.8424, Recall: 0.9650
+AMself_output/eval_dump/AMself_12_3/epoch-49.humanAP: 0.9258, MR: 0.4041, JI: 0.8424, Recall: 0.9650
+AMself_output/eval_dump/AMself_12_3/epoch-49.humanAP: 0.9258, MR: 0.4041, JI: 0.8424, Recall: 0.9650
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-0.humanAP: 0.7300, MR: 0.5634, JI: 0.0604, Recall: 0.8655
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-1.humanAP: 0.7388, MR: 0.5570, JI: 0.0617, Recall: 0.8778
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-2.humanAP: 0.7384, MR: 0.5545, JI: 0.0622, Recall: 0.8703
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-3.humanAP: 0.7463, MR: 0.5370, JI: 0.0626, Recall: 0.8727
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-4.humanAP: 0.7357, MR: 0.5458, JI: 0.0623, Recall: 0.8634
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-5.humanAP: 0.7265, MR: 0.5431, JI: 0.0614, Recall: 0.8429
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-6.humanAP: 0.7393, MR: 0.5374, JI: 0.0622, Recall: 0.8631
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-7.humanAP: 0.7442, MR: 0.5438, JI: 0.0626, Recall: 0.8641
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-8.humanAP: 0.7470, MR: 0.5365, JI: 0.0631, Recall: 0.8698
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-9.humanAP: 0.7448, MR: 0.5432, JI: 0.0635, Recall: 0.8662
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-10.humanAP: 0.7359, MR: 0.5442, JI: 0.0625, Recall: 0.8650
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-11.humanAP: 0.7470, MR: 0.5243, JI: 0.0642, Recall: 0.8658
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-12.humanAP: 0.7409, MR: 0.5211, JI: 0.0630, Recall: 0.8581
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-13.humanAP: 0.7472, MR: 0.5292, JI: 0.0637, Recall: 0.8689
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-14.humanAP: 0.7504, MR: 0.5316, JI: 0.0645, Recall: 0.8667
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-15.humanAP: 0.7358, MR: 0.5369, JI: 0.0634, Recall: 0.8504
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-16.humanAP: 0.7353, MR: 0.5298, JI: 0.0635, Recall: 0.8494
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-17.humanAP: 0.7483, MR: 0.5255, JI: 0.0645, Recall: 0.8672
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-18.humanAP: 0.7482, MR: 0.5495, JI: 0.0643, Recall: 0.8742
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-19.humanAP: 0.7473, MR: 0.5332, JI: 0.0643, Recall: 0.8566
+CITY_output/eval_dump/AMSELF/epoch-52.humanAP: 0.6631, MR: 0.6462, JI: 0.0537, Recall: 0.8093   (直接用crowdhuman的结果测试)
+CITY_output/eval_dump/AMSELF/epoch-52.humanAP: 0.6631, MR: 0.6462, JI: 0.0537, Recall: 0.8093
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-49.humanAP: 0.8077, MR: 0.4181, JI: 0.0000, Recall: 0.8980
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-54.humanAP: 0.7957, MR: 0.4292, JI: 0.0000, Recall: 0.8693
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-59.humanAP: 0.8059, MR: 0.4443, JI: 0.0000, Recall: 0.8895
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-64.humanAP: 0.7935, MR: 0.4319, JI: 0.0000, Recall: 0.8661
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-69.humanAP: 0.8058, MR: 0.4443, JI: 0.0000, Recall: 0.8912
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-74.humanAP: 0.7908, MR: 0.4389, JI: 0.0000, Recall: 0.8737
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-79.humanAP: 0.7959, MR: 0.4142, JI: 0.0000, Recall: 0.8579
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-84.humanAP: 0.7914, MR: 0.4248, JI: 0.0000, Recall: 0.8538
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-89.humanAP: 0.7947, MR: 0.4309, JI: 0.0000, Recall: 0.8612
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-94.humanAP: 0.7756, MR: 0.4429, JI: 0.0000, Recall: 0.8314
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-99.humanAP: 0.7794, MR: 0.4658, JI: 0.0000, Recall: 0.8522
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-104.humanAP: 0.7936, MR: 0.4435, JI: 0.0000, Recall: 0.8688
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-109.humanAP: 0.7818, MR: 0.4413, JI: 0.0000, Recall: 0.8402
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-114.humanAP: 0.7803, MR: 0.4522, JI: 0.0000, Recall: 0.8472
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-119.humanAP: 0.7866, MR: 0.4423, JI: 0.0000, Recall: 0.8543
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-124.humanAP: 0.7801, MR: 0.4349, JI: 0.0000, Recall: 0.8317
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-129.humanAP: 0.7749, MR: 0.4350, JI: 0.0000, Recall: 0.8213
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-134.humanAP: 0.7819, MR: 0.4394, JI: 0.0000, Recall: 0.8301
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-139.humanAP: 0.7713, MR: 0.4385, JI: 0.0000, Recall: 0.8153
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-144.humanAP: 0.7721, MR: 0.4428, JI: 0.0000, Recall: 0.8159
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-149.humanAP: 0.7709, MR: 0.4421, JI: 0.0000, Recall: 0.8156
+CITY_output/eval_dump/AMSELF/epoch-52.humanAP: 0.7210, MR: 0.5760, JI: 0.0000, Recall: 0.8672
+CITY_output/eval_dump/AMSELF/epoch-52.humanAP: 0.7210, MR: 0.5760, JI: 0.0000, Recall: 0.8672
+CITY_output/eval_dump/AMSELF/epoch-52.humanAP: 0.7210, MR: 0.5760, JI: 0.0000, Recall: 0.8672
+CITY_output/eval_dump/AMSELF/epoch-52.humanAP: 0.7210, MR: 0.5760, JI: 0.0000, Recall: 0.8672
+CITY_output/eval_dump/AMSELF/epoch-52.humanAP: 0.7210, MR: 0.5760, JI: 0.0000, Recall: 0.8672
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-49.humanAP: 0.7438, MR: 0.4773, JI: 0.0000, Recall: 0.8235
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-54.humanAP: 0.7240, MR: 0.4778, JI: 0.0000, Recall: 0.7840
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-59.humanAP: 0.7129, MR: 0.4733, JI: 0.0000, Recall: 0.7608
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-64.humanAP: 0.7245, MR: 0.4834, JI: 0.0000, Recall: 0.7829
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-69.humanAP: 0.7130, MR: 0.4685, JI: 0.0000, Recall: 0.7640
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-74.humanAP: 0.7154, MR: 0.4638, JI: 0.0000, Recall: 0.7621
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-79.humanAP: 0.7359, MR: 0.4600, JI: 0.0000, Recall: 0.7902
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-84.humanAP: 0.7138, MR: 0.4647, JI: 0.0000, Recall: 0.7548
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-89.humanAP: 0.7112, MR: 0.4813, JI: 0.0000, Recall: 0.7605
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-94.humanAP: 0.7147, MR: 0.4640, JI: 0.0000, Recall: 0.7542
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-99.humanAP: 0.7164, MR: 0.4762, JI: 0.0000, Recall: 0.7640
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-104.humanAP: 0.7149, MR: 0.4656, JI: 0.0000, Recall: 0.7597
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-109.humanAP: 0.7021, MR: 0.4897, JI: 0.0000, Recall: 0.7406
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-114.humanAP: 0.6961, MR: 0.4920, JI: 0.0000, Recall: 0.7450
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-119.humanAP: 0.6985, MR: 0.4836, JI: 0.0000, Recall: 0.7425
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-124.humanAP: 0.7073, MR: 0.4756, JI: 0.0000, Recall: 0.7444
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-129.humanAP: 0.6934, MR: 0.4670, JI: 0.0000, Recall: 0.7237
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-134.humanAP: 0.6885, MR: 0.4586, JI: 0.0000, Recall: 0.7136
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-139.humanAP: 0.6893, MR: 0.4578, JI: 0.0000, Recall: 0.7125
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-144.humanAP: 0.6817, MR: 0.4568, JI: 0.0000, Recall: 0.7038
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-149.humanAP: 0.6885, MR: 0.4524, JI: 0.0000, Recall: 0.7125
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-34.humanAP: 0.7458, MR: 0.4843, JI: 0.0000, Recall: 0.8385
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-39.humanAP: 0.7500, MR: 0.4624, JI: 0.0000, Recall: 0.8161
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-44.humanAP: 0.7442, MR: 0.4798, JI: 0.0000, Recall: 0.8372
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-49.humanAP: 0.7438, MR: 0.4773, JI: 0.0000, Recall: 0.8235
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-54.humanAP: 0.7240, MR: 0.4778, JI: 0.0000, Recall: 0.7840
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-59.humanAP: 0.7129, MR: 0.4733, JI: 0.0000, Recall: 0.7608
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-64.humanAP: 0.7245, MR: 0.4834, JI: 0.0000, Recall: 0.7829
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-69.humanAP: 0.7130, MR: 0.4685, JI: 0.0000, Recall: 0.7640
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-74.humanAP: 0.7154, MR: 0.4638, JI: 0.0000, Recall: 0.7621
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-79.humanAP: 0.7359, MR: 0.4600, JI: 0.0000, Recall: 0.7902
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-84.humanAP: 0.7138, MR: 0.4647, JI: 0.0000, Recall: 0.7548
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-89.humanAP: 0.7112, MR: 0.4813, JI: 0.0000, Recall: 0.7605
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-94.humanAP: 0.7147, MR: 0.4640, JI: 0.0000, Recall: 0.7542
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-99.humanAP: 0.7164, MR: 0.4762, JI: 0.0000, Recall: 0.7640
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-104.humanAP: 0.7149, MR: 0.4656, JI: 0.0000, Recall: 0.7597
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-109.humanAP: 0.7021, MR: 0.4897, JI: 0.0000, Recall: 0.7406
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-114.humanAP: 0.6961, MR: 0.4920, JI: 0.0000, Recall: 0.7450
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-119.humanAP: 0.6985, MR: 0.4836, JI: 0.0000, Recall: 0.7425
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-124.humanAP: 0.7073, MR: 0.4756, JI: 0.0000, Recall: 0.7444
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-129.humanAP: 0.6934, MR: 0.4670, JI: 0.0000, Recall: 0.7237
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-134.humanAP: 0.6885, MR: 0.4586, JI: 0.0000, Recall: 0.7136
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-139.humanAP: 0.6893, MR: 0.4578, JI: 0.0000, Recall: 0.7125
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-144.humanAP: 0.6817, MR: 0.4568, JI: 0.0000, Recall: 0.7038
+CITY_output/eval_dump/CITYPERSON_1_0/epoch-149.humanAP: 0.6885, MR: 0.4524, JI: 0.0000, Recall: 0.7125
+CITY_output/eval_dump/AMSELF/epoch-52.humanAP: 0.7210, MR: 0.5752, JI: 0.0000, Recall: 0.8672
+
+
+DH_head/eval_dump/two-stage-deformable/epoch-49.humanAP: 0.9265, MR: 0.4289, JI: 0.8291, Recall: 0.9774
+DH_head/eval_dump/two-stage-deformable/epoch-50.humanAP: 0.9267, MR: 0.4292, JI: 0.8303, Recall: 0.9759
+DH_head/eval_dump/two-stage-deformable/epoch-51.humanAP: 0.9266, MR: 0.4308, JI: 0.8287, Recall: 0.9753
+DH_head/eval_dump/two-stage-deformable/epoch-52.humanAP: 0.9282, MR: 0.4277, JI: 0.8311, Recall: 0.9775 %
+DH_head/eval_dump/two-stage-deformable/epoch-53.humanAP: 0.9272, MR: 0.4274, JI: 0.8295, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable/epoch-54.humanAP: 0.9270, MR: 0.4299, JI: 0.8327, Recall: 0.9762
+DH_head/eval_dump/two-stage-deformable/epoch-54.humanAP: 0.9182, MR: 0.4601, JI: 0.7975, Recall: 0.9786    encode top1000
+DH_head/eval_dump/two-stage-deformable/epoch-54.humanAP: 0.8837, MR: 0.6399, JI: 0.7259, Recall: 0.9816    decode   layer 1
+DH_head/eval_dump/two-stage-deformable/epoch-54.humanAP: 0.9108, MR: 0.5067, JI: 0.7943, Recall: 0.9801    decode layer 2
+DH_head/eval_dump/two-stage-deformable/epoch-54.humanAP: 0.9227, MR: 0.4490, JI: 0.8218, Recall: 0.9778    decode layer 3
+DH_head/eval_dump/two-stage-deformable/epoch-54.humanAP: 0.9259, MR: 0.4328, JI: 0.8290, Recall: 0.9766    decode layer 4
+DH_head/eval_dump/two-stage-deformable/epoch-54.humanAP: 0.9271, MR: 0.4279, JI: 0.8323, Recall: 0.9765    decode layer 5
+DH_head/eval_dump/two-stage-deformable/epoch-54.humanAP: 0.9270, MR: 0.4299, JI: 0.8327, Recall: 0.9762    decode layer 6
+
+DH_head/eval_dump/two-stage-deformable-HE/epoch-49.humanAP: 0.9253, MR: 0.4338, JI: 0.8231, Recall: 0.9785
+DH_head/eval_dump/two-stage-deformable-HE/epoch-50.humanAP: 0.9268, MR: 0.4329, JI: 0.8266, Recall: 0.9785
+DH_head/eval_dump/two-stage-deformable-HE/epoch-51.humanAP: 0.9260, MR: 0.4308, JI: 0.8269, Recall: 0.9768
+DH_head/eval_dump/two-stage-deformable-HE/epoch-52.humanAP: 0.9258, MR: 0.4359, JI: 0.8263, Recall: 0.9767
+DH_head/eval_dump/two-stage-deformable-HE/epoch-53.humanAP: 0.9255, MR: 0.4299, JI: 0.8254, Recall: 0.9752
+DH_head/eval_dump/two-stage-deformable-HE/epoch-54.humanAP: 0.9263, MR: 0.4277, JI: 0.8270, Recall: 0.9767 %
+DH_head/eval_dump/two-stage-deformable-HE/epoch-54.humanAP: 0.9160, MR: 0.4622, JI: 0.7920, Recall: 0.9784 encode top1000
+DH_head/eval_dump/two-stage-deformable-HE/epoch-54.humanAP: 0.8784, MR: 0.6732, JI: 0.7199, Recall: 0.9813 decode layer 1
+DH_head/eval_dump/two-stage-deformable-HE/epoch-54.humanAP: 0.9104, MR: 0.5108, JI: 0.7930, Recall: 0.9791 decode layer 2
+DH_head/eval_dump/two-stage-deformable-HE/epoch-54.humanAP: 0.9221, MR: 0.4471, JI: 0.8190, Recall: 0.9768 decode layer 3
+DH_head/eval_dump/two-stage-deformable-HE/epoch-54.humanAP: 0.9262, MR: 0.4283, JI: 0.8266, Recall: 0.9761 decode layer 5
+
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-49.humanAP: 0.9349, MR: 0.4013, JI: 0.8413, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-50.humanAP: 0.9361, MR: 0.4027, JI: 0.8409, Recall: 0.9790
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-51.humanAP: 0.9362, MR: 0.4039, JI: 0.8437, Recall: 0.9795
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-52.humanAP: 0.9354, MR: 0.4029, JI: 0.8410, Recall: 0.9777
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-53.humanAP: 0.9354, MR: 0.3977, JI: 0.8418, Recall: 0.9779 %
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-54.humanAP: 0.9347, MR: 0.3979, JI: 0.8416, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-53.humanAP: 0.9278, MR: 0.4278, JI: 0.8218, Recall: 0.9788  encoder top1000
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-53.humanAP: 0.9060, MR: 0.5558, JI: 0.7669, Recall: 0.9810  decoder1
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-53.humanAP: 0.9344, MR: 0.4005, JI: 0.8397, Recall: 0.9791  decoder2
+DH_head/eval_dump/two-stage-deformable-ADis/epoch-53.humanAP: 0.9354, MR: 0.3977, JI: 0.8418, Recall: 0.9779  decoder3
+
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-49.humanAP: 0.9342, MR: 0.4036, JI: 0.8420, Recall: 0.9761
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-50.humanAP: 0.9347, MR: 0.4048, JI: 0.8432, Recall: 0.9753
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-51.humanAP: 0.9353, MR: 0.3984, JI: 0.8447, Recall: 0.9757  %
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-52.humanAP: 0.9342, MR: 0.4024, JI: 0.8440, Recall: 0.9734
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-53.humanAP: 0.9343, MR: 0.3981, JI: 0.8441, Recall: 0.9739
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-54.humanAP: 0.9340, MR: 0.3978, JI: 0.8445, Recall: 0.9730
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-49.humanAP: 0.9348, MR: 0.4038, JI: 0.8433, Recall: 0.9746
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-50.humanAP: 0.9337, MR: 0.3983, JI: 0.8434, Recall: 0.9726
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-51.humanAP: 0.9356, MR: 0.3980, JI: 0.8445, Recall: 0.9751 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-52.humanAP: 0.9347, MR: 0.4061, JI: 0.8441, Recall: 0.9743
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-53.humanAP: 0.9347, MR: 0.4031, JI: 0.8444, Recall: 0.9745
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-54.humanAP: 0.9345, MR: 0.4021, JI: 0.8449, Recall: 0.9741
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-51.humanAP: 0.9265, MR: 0.4414, JI: 0.8210, Recall: 0.9772 encoder top1000
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-51.humanAP: 0.8907, MR: 0.6335, JI: 0.7345, Recall: 0.9793 decoder1
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-51.humanAP: 0.9346, MR: 0.4016, JI: 0.8422, Recall: 0.9769 decoder2
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-51.humanAP: 0.9358, MR: 0.3964, JI: 0.8447, Recall: 0.9758 decoder3
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-51.humanAP: 0.9358, MR: 0.3971, JI: 0.8444, Recall: 0.9754 decoder4
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-51.humanAP: 0.9359, MR: 0.3940, JI: 0.8444, Recall: 0.9752 decoder5
+DH_head/eval_dump/two-stage-deformable-ADis-real-self/epoch-51.humanAP: 0.9356, MR: 0.3980, JI: 0.8445, Recall: 0.9751 decoder6
+
+
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-51.humanAP: 0.9269, MR: 0.4441, JI: 0.8240, Recall: 0.9781  encoder top1000
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-51.humanAP: 0.8869, MR: 0.6406, JI: 0.7223, Recall: 0.9796  decoder1
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-51.humanAP: 0.9339, MR: 0.4075, JI: 0.8423, Recall: 0.9776  decoder2
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-51.humanAP: 0.9352, MR: 0.3999, JI: 0.8435, Recall: 0.9765  decoder3
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-51.humanAP: 0.9352, MR: 0.3990, JI: 0.8438, Recall: 0.9759  decoder4
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-51.humanAP: 0.9353, MR: 0.3978, JI: 0.8441, Recall: 0.9757  decoder5
+DH_head/eval_dump/two-stage-deformable-ADis-real/epoch-51.humanAP: 0.9353, MR: 0.3984, JI: 0.8447, Recall: 0.9757  decoder6
+
+
+
+
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-45.humanAP: 0.9274, MR: 0.4315, JI: 0.8282, Recall: 0.9749
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-46.humanAP: 0.9272, MR: 0.4304, JI: 0.8300, Recall: 0.9761
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-45.humanAP: 0.9274, MR: 0.4315, JI: 0.8282, Recall: 0.9749
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-46.humanAP: 0.9272, MR: 0.4304, JI: 0.8300, Recall: 0.9761
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-47.humanAP: 0.9288, MR: 0.4197, JI: 0.8285, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-51.humanAP: 0.9283, MR: 0.4244, JI: 0.8317, Recall: 0.9758
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-52.humanAP: 0.9288, MR: 0.4230, JI: 0.8284, Recall: 0.9768
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-53.humanAP: 0.9286, MR: 0.4279, JI: 0.8305, Recall: 0.9756
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-54.humanAP: 0.9285, MR: 0.4251, JI: 0.8318, Recall: 0.9755
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-54.humanAP: 0.9285, MR: 0.4251, JI: 0.8318, Recall: 0.9755 last dec
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-54.humanAP: 0.9229, MR: 0.4487, JI: 0.8159, Recall: 0.9778 enc_out
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-54.humanAP: 0.9280, MR: 0.4250, JI: 0.8303, Recall: 0.9762 dec 0
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-54.humanAP: 0.9286, MR: 0.4245, JI: 0.8311, Recall: 0.9755 dec 1
+DH_head/eval_dump/two-stage-deformable-ADis-real-3/epoch-54.humanAP: 0.9285, MR: 0.4251, JI: 0.8318, Recall: 0.9755 last dec
+
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-42.humanAP: 0.9344, MR: 0.3990, JI: 0.8383, Recall: 0.9790
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-43.humanAP: 0.9351, MR: 0.4025, JI: 0.8370, Recall: 0.9797
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-44.humanAP: 0.9340, MR: 0.4051, JI: 0.8407, Recall: 0.9787
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-45.humanAP: 0.9349, MR: 0.3987, JI: 0.8399, Recall: 0.9794 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-46.humanAP: 0.9338, MR: 0.4048, JI: 0.8375, Recall: 0.9798
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-47.humanAP: 0.9350, MR: 0.4013, JI: 0.8393, Recall: 0.9789
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-48.humanAP: 0.9354, MR: 0.4022, JI: 0.8401, Recall: 0.9792
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-49.humanAP: 0.9353, MR: 0.3984, JI: 0.8403, Recall: 0.9793 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-50.humanAP: 0.9352, MR: 0.4016, JI: 0.8406, Recall: 0.9791
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-51.humanAP: 0.9348, MR: 0.4008, JI: 0.8406, Recall: 0.9784
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-52.humanAP: 0.9354, MR: 0.4012, JI: 0.8415, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-53.humanAP: 0.9362, MR: 0.4015, JI: 0.8417, Recall: 0.9800
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2/epoch-54.humanAP: 0.9350, MR: 0.4004, JI: 0.8413, Recall: 0.9773
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-32.humanAP: 0.9165, MR: 0.4299, JI: 0.8118, Recall: 0.9631
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-33.humanAP: 0.9163, MR: 0.4392, JI: 0.8144, Recall: 0.9642
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-34.humanAP: 0.9213, MR: 0.4297, JI: 0.8188, Recall: 0.9705
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-35.humanAP: 0.9201, MR: 0.4483, JI: 0.8120, Recall: 0.9693
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-36.humanAP: 0.9189, MR: 0.4349, JI: 0.8122, Recall: 0.9654
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-37.humanAP: 0.9239, MR: 0.4215, JI: 0.8260, Recall: 0.9726
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-38.humanAP: 0.9140, MR: 0.4460, JI: 0.8246, Recall: 0.9589
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-39.humanAP: 0.9216, MR: 0.4314, JI: 0.8158, Recall: 0.9703
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-40.humanAP: 0.9289, MR: 0.4062, JI: 0.8339, Recall: 0.9711
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-41.humanAP: 0.9308, MR: 0.4057, JI: 0.8350, Recall: 0.9723
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-42.humanAP: 0.9309, MR: 0.4034, JI: 0.8361, Recall: 0.9717
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-43.humanAP: 0.9321, MR: 0.4086, JI: 0.8375, Recall: 0.9730
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-44.humanAP: 0.9325, MR: 0.4078, JI: 0.8383, Recall: 0.9735
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-45.humanAP: 0.9308, MR: 0.4033, JI: 0.8373, Recall: 0.9710
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-46.humanAP: 0.9315, MR: 0.4054, JI: 0.8374, Recall: 0.9710
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-47.humanAP: 0.9317, MR: 0.4055, JI: 0.8395, Recall: 0.9706
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-48.humanAP: 0.9331, MR: 0.4015, JI: 0.8394, Recall: 0.9726
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-49.humanAP: 0.9333, MR: 0.4011, JI: 0.8397, Recall: 0.9734
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscreen/epoch-50.humanAP: 0.9328, MR: 0.4021, JI: 0.8404, Recall: 0.9726
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-35.humanAP: 0.9154, MR: 0.4560, JI: 0.8070, Recall: 0.9762
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-36.humanAP: 0.9184, MR: 0.4461, JI: 0.8023, Recall: 0.9758
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-37.humanAP: 0.9200, MR: 0.4501, JI: 0.8055, Recall: 0.9802
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-38.humanAP: 0.9145, MR: 0.4473, JI: 0.8000, Recall: 0.9714
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-39.humanAP: 0.9181, MR: 0.4501, JI: 0.8051, Recall: 0.9784
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-40.humanAP: 0.9280, MR: 0.4151, JI: 0.8245, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-41.humanAP: 0.9286, MR: 0.4129, JI: 0.8206, Recall: 0.9789
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-42.humanAP: 0.9308, MR: 0.4069, JI: 0.8261, Recall: 0.9808
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-43.humanAP: 0.9296, MR: 0.4134, JI: 0.8268, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-44.humanAP: 0.9307, MR: 0.4119, JI: 0.8290, Recall: 0.9794 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-45.humanAP: 0.9296, MR: 0.4067, JI: 0.8260, Recall: 0.9777
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-46.humanAP: 0.9301, MR: 0.4133, JI: 0.8255, Recall: 0.9786
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_locY/epoch-47.humanAP: 0.9307, MR: 0.4034, JI: 0.8263, Recall: 0.9783
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-40.humanAP: 0.9320, MR: 0.4115, JI: 0.8338, Recall: 0.9783
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-41.humanAP: 0.9319, MR: 0.4088, JI: 0.8331, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-42.humanAP: 0.9335, MR: 0.4051, JI: 0.8364, Recall: 0.9796
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-43.humanAP: 0.9338, MR: 0.4063, JI: 0.8360, Recall: 0.9795
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-44.humanAP: 0.9339, MR: 0.4067, JI: 0.8379, Recall: 0.9796
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-45.humanAP: 0.9333, MR: 0.4096, JI: 0.8375, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-46.humanAP: 0.9334, MR: 0.4047, JI: 0.8375, Recall: 0.9784
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-47.humanAP: 0.9342, MR: 0.4032, JI: 0.8380, Recall: 0.9784
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-48.humanAP: 0.9347, MR: 0.4056, JI: 0.8383, Recall: 0.9797
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add/epoch-49.humanAP: 0.9345, MR: 0.4024, JI: 0.8390, Recall: 0.9795 %
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-35.humanAP: 0.9224, MR: 0.4306, JI: 0.8248, Recall: 0.9745
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-36.humanAP: 0.9260, MR: 0.4183, JI: 0.8117, Recall: 0.9791
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-37.humanAP: 0.9203, MR: 0.4340, JI: 0.8211, Recall: 0.9718
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-38.humanAP: 0.9217, MR: 0.4249, JI: 0.8088, Recall: 0.9725
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-39.humanAP: 0.9270, MR: 0.4266, JI: 0.8248, Recall: 0.9778
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-40.humanAP: 0.9325, MR: 0.4080, JI: 0.8370, Recall: 0.9773
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-41.humanAP: 0.9331, MR: 0.4016, JI: 0.8346, Recall: 0.9772
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-42.humanAP: 0.9344, MR: 0.4028, JI: 0.8386, Recall: 0.9784
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-43.humanAP: 0.9343, MR: 0.4001, JI: 0.8379, Recall: 0.9784
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-44.humanAP: 0.9344, MR: 0.4020, JI: 0.8411, Recall: 0.9775
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-45.humanAP: 0.9343, MR: 0.4022, JI: 0.8382, Recall: 0.9780
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-46.humanAP: 0.9349, MR: 0.3974, JI: 0.8402, Recall: 0.9778 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-47.humanAP: 0.9345, MR: 0.4001, JI: 0.8411, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-48.humanAP: 0.9353, MR: 0.3982, JI: 0.8412, Recall: 0.9781
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token/epoch-49.humanAP: 0.9347, MR: 0.4000, JI: 0.8417, Recall: 0.9780
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-40.humanAP: 0.9322, MR: 0.4101, JI: 0.8344, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-41.humanAP: 0.9321, MR: 0.4036, JI: 0.8329, Recall: 0.9780
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-42.humanAP: 0.9326, MR: 0.4073, JI: 0.8341, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-43.humanAP: 0.9330, MR: 0.4075, JI: 0.8356, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-44.humanAP: 0.9337, MR: 0.4057, JI: 0.8386, Recall: 0.9783
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-45.humanAP: 0.9336, MR: 0.4077, JI: 0.8389, Recall: 0.9786
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-46.humanAP: 0.9341, MR: 0.4072, JI: 0.8394, Recall: 0.9787
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-47.humanAP: 0.9345, MR: 0.4016, JI: 0.8380, Recall: 0.9785 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-48.humanAP: 0.9341, MR: 0.4044, JI: 0.8398, Recall: 0.9785
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-confscore_add_expandfield/epoch-49.humanAP: 0.9347, MR: 0.4078, JI: 0.8391, Recall: 0.9800
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-40.humanAP: 0.9335, MR: 0.4063, JI: 0.8367, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-41.humanAP: 0.9336, MR: 0.4053, JI: 0.8350, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-42.humanAP: 0.9344, MR: 0.4013, JI: 0.8394, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-43.humanAP: 0.9353, MR: 0.4049, JI: 0.8371, Recall: 0.9796
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-44.humanAP: 0.9351, MR: 0.4039, JI: 0.8416, Recall: 0.9781
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-45.humanAP: 0.9353, MR: 0.4063, JI: 0.8385, Recall: 0.9789
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-46.humanAP: 0.9346, MR: 0.4021, JI: 0.8399, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-47.humanAP: 0.9340, MR: 0.4044, JI: 0.8391, Recall: 0.9771
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-48.humanAP: 0.9345, MR: 0.4017, JI: 0.8378, Recall: 0.9774  %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-49.humanAP: 0.9357, MR: 0.4057, JI: 0.8402, Recall: 0.9791
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-50.humanAP: 0.9351, MR: 0.4011, JI: 0.8413, Recall: 0.9784   %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-51.humanAP: 0.9358, MR: 0.4033, JI: 0.8423, Recall: 0.9783
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-52.humanAP: 0.9353, MR: 0.4056, JI: 0.8410, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-53.humanAP: 0.9356, MR: 0.4053, JI: 0.8422, Recall: 0.9774
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract/epoch-54.humanAP: 0.9357, MR: 0.4027, JI: 0.8416, Recall: 0.9787
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-40.humanAP: 0.9327, MR: 0.4012, JI: 0.8368, Recall: 0.9765
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-41.humanAP: 0.9321, MR: 0.4029, JI: 0.8326, Recall: 0.9760
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-42.humanAP: 0.9338, MR: 0.3990, JI: 0.8366, Recall: 0.9768
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-43.humanAP: 0.9338, MR: 0.4011, JI: 0.8349, Recall: 0.9775
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-44.humanAP: 0.9338, MR: 0.3977, JI: 0.8383, Recall: 0.9765
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-45.humanAP: 0.9346, MR: 0.3975, JI: 0.8389, Recall: 0.9769
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-46.humanAP: 0.9336, MR: 0.3974, JI: 0.8384, Recall: 0.9756
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-47.humanAP: 0.9339, MR: 0.3970, JI: 0.8381, Recall: 0.9761
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-48.humanAP: 0.9347, MR: 0.3944, JI: 0.8406, Recall: 0.9757 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-49.humanAP: 0.9346, MR: 0.3994, JI: 0.8372, Recall: 0.9768
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-50.humanAP: 0.9346, MR: 0.3988, JI: 0.8386, Recall: 0.9767
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-51.humanAP: 0.9354, MR: 0.3980, JI: 0.8385, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ID_token-subtract-norm-addq/epoch-52.humanAP: 0.9341, MR: 0.3997, JI: 0.8405, Recall: 0.9759
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-45.humanAP: 0.9353, MR: 0.3979, JI: 0.8401, Recall: 0.9775
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-46.humanAP: 0.9356, MR: 0.3980, JI: 0.8393, Recall: 0.9783
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-47.humanAP: 0.9351, MR: 0.3991, JI: 0.8390, Recall: 0.9780
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-48.humanAP: 0.9359, MR: 0.3976, JI: 0.8404, Recall: 0.9787
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-49.humanAP: 0.9360, MR: 0.4005, JI: 0.8421, Recall: 0.9789
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-50.humanAP: 0.9354, MR: 0.3976, JI: 0.8403, Recall: 0.9772
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-51.humanAP: 0.9366, MR: 0.3996, JI: 0.8406, Recall: 0.9796 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-52.humanAP: 0.9362, MR: 0.3966, JI: 0.8427, Recall: 0.9777 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-53.humanAP: 0.9347, MR: 0.4031, JI: 0.8408, Recall: 0.9763
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-54.humanAP: 0.9354, MR: 0.4009, JI: 0.8432, Recall: 0.9772
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-40.humanAP: 0.9332, MR: 0.4052, JI: 0.8346, Recall: 0.9790
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-41.humanAP: 0.9332, MR: 0.3999, JI: 0.8366, Recall: 0.9774
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-42.humanAP: 0.9340, MR: 0.3998, JI: 0.8396, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-43.humanAP: 0.9347, MR: 0.3963, JI: 0.8415, Recall: 0.9777
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-44.humanAP: 0.9348, MR: 0.3993, JI: 0.8422, Recall: 0.9778
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-45.humanAP: 0.9352, MR: 0.3955, JI: 0.8420, Recall: 0.9780
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-46.humanAP: 0.9354, MR: 0.3920, JI: 0.8416, Recall: 0.9780
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-47.humanAP: 0.9359, MR: 0.3919, JI: 0.8418, Recall: 0.9784 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-48.humanAP: 0.9361, MR: 0.3931, JI: 0.8432, Recall: 0.9789
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-49.humanAP: 0.9358, MR: 0.3920, JI: 0.8420, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-50.humanAP: 0.9356, MR: 0.3981, JI: 0.8428, Recall: 0.9774
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-51.humanAP: 0.9356, MR: 0.3966, JI: 0.8433, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-52.humanAP: 0.9355, MR: 0.3966, JI: 0.8422, Recall: 0.9771
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou/epoch-53.humanAP: 0.9355, MR: 0.3962, JI: 0.8435, Recall: 0.9772
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-40.humanAP: 0.9348, MR: 0.3997, JI: 0.8412, Recall: 0.9763
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-41.humanAP: 0.9352, MR: 0.3962, JI: 0.8439, Recall: 0.9761
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-42.humanAP: 0.9356, MR: 0.3967, JI: 0.8457, Recall: 0.9753
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-43.humanAP: 0.9355, MR: 0.4006, JI: 0.8453, Recall: 0.9760
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-44.humanAP: 0.9360, MR: 0.4004, JI: 0.8458, Recall: 0.9766
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-45.humanAP: 0.9349, MR: 0.4016, JI: 0.8454, Recall: 0.9748
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-46.humanAP: 0.9352, MR: 0.3977, JI: 0.8463, Recall: 0.9740
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-47.humanAP: 0.9357, MR: 0.3959, JI: 0.8466, Recall: 0.9750 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-48.humanAP: 0.9359, MR: 0.4007, JI: 0.8463, Recall: 0.9754
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-49.humanAP: 0.9355, MR: 0.3974, JI: 0.8459, Recall: 0.9754
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-50.humanAP: 0.9362, MR: 0.3986, JI: 0.8463, Recall: 0.9752
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-51.humanAP: 0.9362, MR: 0.3967, JI: 0.8472, Recall: 0.9752
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-52.humanAP: 0.9355, MR: 0.3969, JI: 0.8456, Recall: 0.9744
+DH_head/eval_dump/two-stage-deformable-ADis-real-4-2-ONLY-ID_token-subtract-norm-addq-Giou-repeat/epoch-53.humanAP: 0.9360, MR: 0.4010, JI: 0.8477, Recall: 0.9752
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-40.humanAP: 0.9334, MR: 0.4050, JI: 0.8377, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-41.humanAP: 0.9343, MR: 0.3992, JI: 0.8371, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-42.humanAP: 0.9346, MR: 0.4001, JI: 0.8414, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-43.humanAP: 0.9345, MR: 0.3976, JI: 0.8403, Recall: 0.9772
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-44.humanAP: 0.9344, MR: 0.4030, JI: 0.8413, Recall: 0.9781
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-45.humanAP: 0.9351, MR: 0.4004, JI: 0.8432, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-46.humanAP: 0.9346, MR: 0.3994, JI: 0.8418, Recall: 0.9767
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-47.humanAP: 0.9354, MR: 0.3948, JI: 0.8413, Recall: 0.9775
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-48.humanAP: 0.9357, MR: 0.3982, JI: 0.8427, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-49.humanAP: 0.9357, MR: 0.3967, JI: 0.8432, Recall: 0.9778
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-50.humanAP: 0.9356, MR: 0.3991, JI: 0.8418, Recall: 0.9771
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-51.humanAP: 0.9363, MR: 0.3947, JI: 0.8418, Recall: 0.9784
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-52.humanAP: 0.9359, MR: 0.3941, JI: 0.8445, Recall: 0.9768 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Iou/epoch-53.humanAP: 0.9361, MR: 0.3948, JI: 0.8436, Recall: 0.9776
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-40.humanAP: 0.9330, MR: 0.3999, JI: 0.8378, Recall: 0.9778
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-41.humanAP: 0.9338, MR: 0.3956, JI: 0.8385, Recall: 0.9769
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-42.humanAP: 0.9344, MR: 0.3937, JI: 0.8415, Recall: 0.9773
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-43.humanAP: 0.9343, MR: 0.3995, JI: 0.8409, Recall: 0.9769
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-44.humanAP: 0.9346, MR: 0.3972, JI: 0.8412, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-45.humanAP: 0.9349, MR: 0.4003, JI: 0.8405, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-46.humanAP: 0.9347, MR: 0.3932, JI: 0.8411, Recall: 0.9767
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-47.humanAP: 0.9356, MR: 0.3932, JI: 0.8427, Recall: 0.9779 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-48.humanAP: 0.9348, MR: 0.3965, JI: 0.8437, Recall: 0.9764
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-49.humanAP: 0.9351, MR: 0.3945, JI: 0.8428, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-50.humanAP: 0.9354, MR: 0.3986, JI: 0.8429, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-51.humanAP: 0.9356, MR: 0.3949, JI: 0.8412, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-52.humanAP: 0.9351, MR: 0.3973, JI: 0.8425, Recall: 0.9775
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-GiouClip/epoch-53.humanAP: 0.9352, MR: 0.3930, JI: 0.8418, Recall: 0.9779
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-40.humanAP: 0.9328, MR: 0.4007, JI: 0.8392, Recall: 0.9758
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-41.humanAP: 0.9333, MR: 0.3980, JI: 0.8387, Recall: 0.9754
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-42.humanAP: 0.9342, MR: 0.3925, JI: 0.8404, Recall: 0.9760
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-43.humanAP: 0.9346, MR: 0.3937, JI: 0.8422, Recall: 0.9755
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-44.humanAP: 0.9342, MR: 0.3936, JI: 0.8408, Recall: 0.9749
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-45.humanAP: 0.9350, MR: 0.3992, JI: 0.8422, Recall: 0.9756
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-46.humanAP: 0.9342, MR: 0.3933, JI: 0.8428, Recall: 0.9749
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-47.humanAP: 0.9347, MR: 0.3948, JI: 0.8418, Recall: 0.9753
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-48.humanAP: 0.9349, MR: 0.3924, JI: 0.8426, Recall: 0.9754
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-49.humanAP: 0.9353, MR: 0.3953, JI: 0.8434, Recall: 0.9767
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-50.humanAP: 0.9352, MR: 0.3901, JI: 0.8422, Recall: 0.9757 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-51.humanAP: 0.9358, MR: 0.3920, JI: 0.8424, Recall: 0.9765 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-52.humanAP: 0.9352, MR: 0.3951, JI: 0.8426, Recall: 0.9757
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-53.humanAP: 0.9350, MR: 0.3936, JI: 0.8448, Recall: 0.9755
+
+
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-51.humanAP: 0.9276, MR: 0.4196, JI: 0.8245, Recall: 0.9773  encoder final
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-51.humanAP: 0.9142, MR: 0.5044, JI: 0.7846, Recall: 0.9795  decoder 1
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-51.humanAP: 0.9353, MR: 0.3927, JI: 0.8413, Recall: 0.9776  decoder 2
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-51.humanAP: 0.9358, MR: 0.3920, JI: 0.8424, Recall: 0.9765  decoder 3
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-40.humanAP: 0.9306, MR: 0.4072, JI: 0.8333, Recall: 0.9769
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-41.humanAP: 0.9311, MR: 0.4089, JI: 0.8319, Recall: 0.9772
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-42.humanAP: 0.9318, MR: 0.4032, JI: 0.8358, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-43.humanAP: 0.9326, MR: 0.4031, JI: 0.8353, Recall: 0.9774
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-44.humanAP: 0.9326, MR: 0.4030, JI: 0.8379, Recall: 0.9767
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-45.humanAP: 0.9325, MR: 0.4045, JI: 0.8375, Recall: 0.9767
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-46.humanAP: 0.9330, MR: 0.4093, JI: 0.8369, Recall: 0.9781
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-47.humanAP: 0.9325, MR: 0.4035, JI: 0.8384, Recall: 0.9763
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-48.humanAP: 0.9336, MR: 0.4047, JI: 0.8387, Recall: 0.9778
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-49.humanAP: 0.9329, MR: 0.4054, JI: 0.8377, Recall: 0.9771
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-50.humanAP: 0.9330, MR: 0.4021, JI: 0.8392, Recall: 0.9778
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-51.humanAP: 0.9332, MR: 0.4051, JI: 0.8389, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-52.humanAP: 0.9333, MR: 0.4028, JI: 0.8392, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-ADis-real-2-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-53.humanAP: 0.9333, MR: 0.4009, JI: 0.8407, Recall: 0.9771 %
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-40.humanAP: 0.9291, MR: 0.4150, JI: 0.8330, Recall: 0.9756
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-41.humanAP: 0.9302, MR: 0.4057, JI: 0.8340, Recall: 0.9753
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-42.humanAP: 0.9313, MR: 0.4036, JI: 0.8370, Recall: 0.9762
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-43.humanAP: 0.9324, MR: 0.4035, JI: 0.8392, Recall: 0.9763
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-44.humanAP: 0.9326, MR: 0.4001, JI: 0.8396, Recall: 0.9763
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-45.humanAP: 0.9324, MR: 0.4040, JI: 0.8387, Recall: 0.9763
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-46.humanAP: 0.9328, MR: 0.4044, JI: 0.8397, Recall: 0.9759
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-47.humanAP: 0.9328, MR: 0.4060, JI: 0.8407, Recall: 0.9767
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-48.humanAP: 0.9330, MR: 0.4013, JI: 0.8386, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-49.humanAP: 0.9329, MR: 0.4029, JI: 0.8403, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-50.humanAP: 0.9330, MR: 0.4039, JI: 0.8403, Recall: 0.9769
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-51.humanAP: 0.9338, MR: 0.4030, JI: 0.8422, Recall: 0.9771 %
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-52.humanAP: 0.9340, MR: 0.4030, JI: 0.8412, Recall: 0.9769
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-1-ONLY-ID_token-subtract-norm-addq-Giou500/epoch-53.humanAP: 0.9327, MR: 0.4034, JI: 0.8403, Recall: 0.9759
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq/epoch-51.humanAP: 0.9366, MR: 0.3996, JI: 0.8406, Recall: 0.9796
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq(500)/epoch-51.humanAP: 0.9351, MR: 0.3996, JI: 0.8408, Recall: 0.9759
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq(500)/epoch-51.humanAP: 0.9289, MR: 0.4343, JI: 0.8224, Recall: 0.9810   Enc_final
+
+
+
+
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou2000/epoch-51.humanAP: 0.9377, MR: 0.3921, JI: 0.8424, Recall: 0.9815
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou2000/epoch-52.humanAP: 0.9352, MR: 0.3951, JI: 0.8426, Recall: 0.9757
+DH_head/eval_dump/two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou2000/epoch-53.humanAP: 0.9350, MR: 0.3936, JI: 0.8448, Recall: 0.9755
+
+
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-40.humanAP: 0.9226, MR: 0.4345, JI: 0.8190, Recall: 0.9770
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-41.humanAP: 0.9232, MR: 0.4305, JI: 0.8175, Recall: 0.9761
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-42.humanAP: 0.9250, MR: 0.4302, JI: 0.8241, Recall: 0.9763
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-43.humanAP: 0.9255, MR: 0.4279, JI: 0.8253, Recall: 0.9766
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-44.humanAP: 0.9249, MR: 0.4257, JI: 0.8262, Recall: 0.9757
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-45.humanAP: 0.9261, MR: 0.4288, JI: 0.8287, Recall: 0.9756
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-46.humanAP: 0.9260, MR: 0.4255, JI: 0.8279, Recall: 0.9765
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-47.humanAP: 0.9266, MR: 0.4204, JI: 0.8276, Recall: 0.9764
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-48.humanAP: 0.9283, MR: 0.4220, JI: 0.8287, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-49.humanAP: 0.9270, MR: 0.4212, JI: 0.8294, Recall: 0.9758
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-50.humanAP: 0.9277, MR: 0.4215, JI: 0.8305, Recall: 0.9768
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-51.humanAP: 0.9279, MR: 0.4181, JI: 0.8290, Recall: 0.9775 %
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-52.humanAP: 0.9277, MR: 0.4191, JI: 0.8305, Recall: 0.9759
+DH_head/eval_dump/two-stage-deformable-6-3-500/epoch-53.humanAP: 0.9279, MR: 0.4190, JI: 0.8320, Recall: 0.9762
+
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-40.humanAP: 0.8934, MR: 0.5995, JI: 0.7314, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-41.humanAP: 0.8989, MR: 0.5647, JI: 0.7427, Recall: 0.9775
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-42.humanAP: 0.8988, MR: 0.5703, JI: 0.7448, Recall: 0.9784
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-43.humanAP: 0.9019, MR: 0.5625, JI: 0.7516, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-44.humanAP: 0.9040, MR: 0.5545, JI: 0.7569, Recall: 0.9780
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-45.humanAP: 0.9060, MR: 0.5409, JI: 0.7593, Recall: 0.9781
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-46.humanAP: 0.9063, MR: 0.5355, JI: 0.7598, Recall: 0.9786
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-47.humanAP: 0.9053, MR: 0.5428, JI: 0.7587, Recall: 0.9787
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-48.humanAP: 0.9062, MR: 0.5381, JI: 0.7592, Recall: 0.9782
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-49.humanAP: 0.9058, MR: 0.5438, JI: 0.7666, Recall: 0.9779
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-50.humanAP: 0.9082, MR: 0.5365, JI: 0.7658, Recall: 0.9789
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-51.humanAP: 0.9097, MR: 0.5276, JI: 0.7695, Recall: 0.9789
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-52.humanAP: 0.9093, MR: 0.5345, JI: 0.7682, Recall: 0.9789
+DH_head/eval_dump/two-stage-deformable-6-3-500-alligned/epoch-53.humanAP: 0.9074, MR: 0.5323, JI: 0.7665, Recall: 0.9785
+
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-40.humanAP: 0.9313, MR: 0.4068, JI: 0.8358, Recall: 0.9762
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-41.humanAP: 0.9314, MR: 0.4019, JI: 0.8345, Recall: 0.9750
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-42.humanAP: 0.9322, MR: 0.4041, JI: 0.8380, Recall: 0.9751
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-43.humanAP: 0.9310, MR: 0.4072, JI: 0.8362, Recall: 0.9741
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-44.humanAP: 0.9319, MR: 0.4051, JI: 0.8383, Recall: 0.9753
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-45.humanAP: 0.9318, MR: 0.4087, JI: 0.8394, Recall: 0.9748
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-46.humanAP: 0.9327, MR: 0.4049, JI: 0.8388, Recall: 0.9754
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-47.humanAP: 0.9324, MR: 0.4046, JI: 0.8391, Recall: 0.9753
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-48.humanAP: 0.9323, MR: 0.4048, JI: 0.8404, Recall: 0.9750
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-49.humanAP: 0.9331, MR: 0.3999, JI: 0.8387, Recall: 0.9757
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-50.humanAP: 0.9327, MR: 0.4025, JI: 0.8383, Recall: 0.9745 %
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-51.humanAP: 0.9336, MR: 0.4030, JI: 0.8406, Recall: 0.9756
+DH_head/eval_dump/two-stage-deformable-3-2-ID_token-subtract-norm-addq-Giou500-Noallign-NoGIOU/epoch-52.humanAP: 0.9330, MR: 0.4046, JI: 0.8413, Recall: 0.9744
+
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-40.humanAP: 0.9178, MR: 0.4492, JI: 0.8178, Recall: 0.9691
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-41.humanAP: 0.9203, MR: 0.4324, JI: 0.8196, Recall: 0.9693
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-42.humanAP: 0.9230, MR: 0.4324, JI: 0.8219, Recall: 0.9754
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-43.humanAP: 0.9243, MR: 0.4325, JI: 0.8217, Recall: 0.9744
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-44.humanAP: 0.9241, MR: 0.4346, JI: 0.8248, Recall: 0.9745
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-45.humanAP: 0.9242, MR: 0.4357, JI: 0.8244, Recall: 0.9734
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-46.humanAP: 0.9271, MR: 0.4260, JI: 0.8294, Recall: 0.9763
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-47.humanAP: 0.9268, MR: 0.4301, JI: 0.8299, Recall: 0.9758
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-48.humanAP: 0.9277, MR: 0.4289, JI: 0.8287, Recall: 0.9769
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-49.humanAP: 0.9277, MR: 0.4319, JI: 0.8300, Recall: 0.9774  %
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-50.humanAP: 0.9281, MR: 0.4258, JI: 0.8328, Recall: 0.9765
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-51.humanAP: 0.9283, MR: 0.4278, JI: 0.8319, Recall: 0.9762
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-52.humanAP: 0.9285, MR: 0.4223, JI: 0.8315, Recall: 0.9776
+DH_head/eval_dump/two-stage-deformable-6-6/epoch-53.humanAP: 0.9285, MR: 0.4277, JI: 0.8305, Recall: 0.97777
+
+DH_head/eval_dump/two-stage-deformable-6-6-2000/epoch-49.humanAP: 0.9279, MR: 0.4325, JI: 0.8303, Recall: 0.9790
+DH_head/eval_dump/two-stage-deformable-6-6-500/epoch-49.humanAP: 0.9261, MR: 0.4310, JI: 0.8297, Recall: 0.9728b
+DH_head/eval_dump/two-stage-deformable-6-6-300/epoch-49.humanAP: 0.9223, MR: 0.4344, JI: 0.8276, Recall: 0.9652
+DH_head/eval_dump/two-stage-deformable-6-6-200/epoch-49.humanAP: 0.9140, MR: 0.4435, JI: 0.8259, Recall: 0.9531
+DH_head/eval_dump/two-stage-deformable-6-6-100/epoch-49.humanAP: 0.8759, MR: 0.4756, JI: 0.8223, Recall: 0.9069
+
+
+
+two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500-100/epoch-51.humanAP: 0.8893, MR: 0.3987, JI: 0.8399, Recall: 0.9123
+two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500-200/epoch-51.humanAP: 0.9253, MR: 0.3924, JI: 0.8423, Recall: 0.9580
+two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500-300/epoch-51.humanAP: 0.9326, MR: 0.3921, JI: 0.8424, Recall: 0.9697
+two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500-500/epoch-51.humanAP: 0.9358, MR: 0.3920, JI: 0.8424, Recall: 0.9765
+two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500-1000/epoch-51.humanAP: 0.9375, MR: 0.3920, JI: 0.8424, Recall: 0.9804
+two-stage-deformable-ADis-real-3-2-ONLY-ID_token-subtract-norm-addq-Giou500-2000/epoch-51.humanAP: 0.9377, MR: 0.3921, JI: 0.8424, Recall: 0.9815
+
+
