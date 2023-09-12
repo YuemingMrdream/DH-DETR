@@ -1,5 +1,5 @@
 ## DH-DETR: De-Homogenized Queries DETR in Crowded Scenes (Deformable-DETR implementation)
-![img_2.png](img_2.png)
+![img_3.png](img_3.png)
 ![img_1.png](img_1.png)
 ## Introduction
 This paper focuses on improving dense object detection, a crucial task in fields like self-driving cars and video 
@@ -54,7 +54,8 @@ wget https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_la
 bash exps/aps_swinl.sh
 ```
 
-4. Evaluate Iter Deformable-DETR. You can download the pre-trained model from [here](https://drive.google.com/file/d/1D8nzWLjZ-eHZG-0pNW0iDm5t9wNVsQSp/view?usp=sharing) for direct evaluation.
+4. Evaluate Iter Deformable-DETR. You can download the pre-trained model from [here](https://pan.baidu.com/s/1RrZACC2FI4NGfMluTVgXVQ 
+) (coding：1111) for direct evaluation. 
 ```bash
 # checkpoint path: ./output/model_dump/aps/checkpoint-49.pth
 bash exps/aps_test.sh 49
